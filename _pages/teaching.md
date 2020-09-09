@@ -6,7 +6,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## South Dakota SChool of Mines and Technology
+## South Dakota School of Mines and Technology
 
 ### Graduate Teaching Assistant
 

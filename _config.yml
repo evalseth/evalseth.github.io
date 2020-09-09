@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "Brendan Keith"
+title                    : "Eirik Valseth"
 title_separator          : "-"
-name                     : "Brendan Keith"
-description              : "Brendan Keith's personal website"
-url                      : "https://brendankeith.github.io" # should not end with /
+name                     : "Eirik Valseth"
+description              : "Eirik Valseth's personal website"
+url                      : "https://evalseth.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brendan Keith"
-  avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Science, Numerical Analysis, & Applications"
-  location         : "Garching, Germany"
-  email            : "keith@ma.tum.de"
+  name             : "Eirik Valseth"
+  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg". /assets/images/profile_square_new.jpeg
+  bio              : #"Computational Science, Numerical Analysis, & Applications"
+  location         : "Austin, Texas"
+  email            : "eirik@utexas.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "brendankeith" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : #"brendankeith" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)

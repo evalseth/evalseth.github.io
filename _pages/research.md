@@ -23,7 +23,7 @@ libraries for the same models.
 ## Finite Element Methods
 
 <p style="text-align: justify">
-My Ph.D, research, supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>, was spent focusing on the 
+My Ph.D. research, supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>, was spent focusing on the 
 development of the AVS-FE method. This method is a discontinuous Petrov-Galerkin method (developed by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a> and <a href="http://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a>) making the particular choice of fully continuous trial spaces. 
 As the method is still in its early days of development, the focus has been verification of its properties for a wide range of engineering problems 
 including convection-dominated diffusion, nearly incompressible elastostatics, Cahn-Hilliard equation, and wave propogation to mention a few.

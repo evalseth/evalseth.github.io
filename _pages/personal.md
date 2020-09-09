@@ -12,6 +12,6 @@ author_profile: true
 
 
 <p style="text-align: justify; padding-right: 10px;">
-Outside work, I enjoy traveling with my partne r<a href="https://www.usgs.gov/staff-profiles/kristen-valseth">Kristen</a>, reading, playing board games with friends, cooking, hiking, and fishing to mention a few. During the winter (not in Austin) my favorite activity is skiing, both downhill and cross country.
+Outside work, I enjoy traveling with my partner <a href="https://www.usgs.gov/staff-profiles/kristen-valseth">Kristen</a>, reading, playing board games with friends, cooking, hiking, and fishing to mention a few. During the winter (not in Austin) my favorite activity is skiing, both downhill and cross country.
 </p>
 

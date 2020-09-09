@@ -12,20 +12,15 @@ author_profile: true
 <!-- # About -->
 
 <p style="text-align: justify; padding-right: 10px;">
-I am currently a postdoctoral fellow in the <a href="https://www.oden.utexas.edu/research/centers-groups/chg/">Computational Hydraulics Group (CHG)</a> at the <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin.
+I am currently a postdoctoral fellow in the <a href="https://www.oden.utexas.edu/research/centers-groups/chg/">Computational Hydraulics Group</a> at the <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin.
 My work is supervised by <a href="https://www.oden.utexas.edu/people/36/">Clint Dawson</a>.
+I attended the South Dakota School of Mines and Technology where I earned my Ph.D. in mechanical engineering supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>.  
 </p>
 
 
-<!-- <p style="text-align: justify">
-My research is driven towards characterizing, quantifying, and, ultimately, predicting natural phenomena by way of mathematical modelling.
-Within this purview, numerical methods are indispensable.
-Indeed, they <em>must</em> be used in order to make informed decisions and reach reliable conclusions when facing contemporary problems in science and engineering.
-By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
-</p> -->
 
-<!-- p style="text-align: justify">
-My work typically focuses on numerical methods for PDEs, but I try to work on some other fun topics from time to time.
-</p>  -->
+< p style="text-align: justify">
+My work is in the development of finite element methods for PDEs where classical finite element methods typically fail to produce acceptable approximations. Currently, my focus is within the context of hurricane storm surge modeling
+</p>  
 
 [Learn more about my research](/research/)

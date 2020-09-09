@@ -1,13 +1,13 @@
-# Brendan Keith's website
+# Eirik Valseth's website
 
-This is intended to be my personal webpage. 
-Please feel free to [browse the website](https://brendankeith.github.io/)!
+This is intended to be my personal webpage. Note that it is currently under construction!
+Please feel free to [browse the website](https://evalseth.github.io/)!
 
 ---
 
 ## Credits
 
-Federico Fuentes greatly assisted me in creating this website and I owe him much gratitude for it. I literally copied [his webpage](https://federicofuentes.github.io/) and then replaced his personal information with mine.
+This website was created with the help of Brendan Keith. I literally copied [his webpage](https://brendankeith.github.io/) and then replaced his personal information with mine.
 
 Additional credits to the original creator of the website template [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and to the creator of [Academicons](http://jpswalsh.github.io/academicons/). Thanks!
 

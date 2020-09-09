@@ -7,7 +7,7 @@ Please feel free to [browse the website](https://evalseth.github.io/)!
 
 ## Credits
 
-This website was created with the help of Brendan Keith. I literally copied [his webpage](https://brendankeith.github.io/) and then replaced his personal information with mine.
+This website was created with the help and assistance of Brendan Keith. I literally copied [his webpage](https://brendankeith.github.io/) and then replaced his personal information with mine. 
 
 Additional credits to the original creator of the website template [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and to the creator of [Academicons](http://jpswalsh.github.io/academicons/). Thanks!
 

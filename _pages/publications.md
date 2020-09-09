@@ -20,6 +20,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 | Calo, V.M., Romkes, A., Valseth, E.  (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction. _Lecture Notes in Computational Science and Engineering: Barrenechea G., Mackenzie J. (eds) Boundary and Interior Layers, Computational and Asymptotic Methods
 BAIL 2018, Springer_ 
 [[doi](https://doi.org/10.1007/978-3-030-41800-7)]  |
+| Valseth, E., Dawson, C. (2020) An Unconditionally Stable Space-Time FE Method for the Korteweg-de Vries Equation. _Computer Methods in Applied Mechanics and Engineering_ 371:113297 (2020), [[doi](https://doi.org/10.1016/j.cma.2020.113297)]  |
 
 
 

@@ -31,3 +31,16 @@ After starting my postdoctoral research, I have focused on analysis of the metho
 Additionally, as part of a National Science Foundation sponsored project, my work has also included further development of the existing finite element software
 named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 </p>
+
+### The AVS-FE Method
+
+<figure>
+  <img src="/assets/images/l2_err_q.pdf" alt="">
+  <figcaption style="text-align: justify"> <em>hp</em>- Asymptotic convergence rates for the AVS-FE trial variables. Left:  Right: </figcaption>
+</figure>
+
+<p style="text-align: justify">
+AVS
+</p>
+
+###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction  [[doi](https://doi.org/10.1007/978-3-030-41800-7)]

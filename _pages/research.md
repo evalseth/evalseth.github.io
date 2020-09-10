@@ -50,9 +50,10 @@ The AVS-FE method is uncondtionally stable, regardless of the underlying differe
 
 ### Goal-Orietned Error Estimation 
 
+                                
 <figure>
-  <img src="/assets/images/figs.pdf> 
-  <figcaption style="text-align: justify">  Goal-oriented mesh refinement. Left:  Center: Right: </figcaption>
+  <img src="/assets/images/figs.pdf" alt="">
+  <figcaption style="text-align: justify">Goal-oriented mesh refinement. Left:  Center: Right: </figcaption>
 </figure>
 
 

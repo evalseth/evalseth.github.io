@@ -24,7 +24,7 @@ libraries for the same models.
 
 <p style="text-align: justify">
 My Ph.D. research, supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>, was spent focusing on the 
-development of the AVS-FE method. This method is a discontinuous Petrov-Galerkin method (developed by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a> and <a href="http://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a>) making the particular choice of fully continuous trial spaces. 
+development of the AVS-FE method. This method is a discontinuous Petrov-Galerkin (DPG) method (developed by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a> and <a href="http://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a>) making the particular choice of fully continuous trial spaces. 
 As the method is still in its early days of development, the focus has been verification of its properties for a wide range of engineering problems 
 including convection-dominated diffusion, nearly incompressible elastostatics, Cahn-Hilliard equation, and wave propogation to mention a few.
 After starting my postdoctoral research, I have focused on analysis of the method as well as its application to the modeling of hurricane storm surge. 
@@ -32,7 +32,7 @@ Additionally, as part of a National Science Foundation sponsored project, my wor
 named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 </p>
 
-### The AVS-FE Method
+## The AVS-FE Method
 
 <figure>
   <img src="/assets/images/l2_err_u.png"  width="70px" height="100px"> 
@@ -43,7 +43,17 @@ named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 </figure>
 
 <p style="text-align: justify">
-AVS
+The AVS-FE method is uncondtionally stable, regardless of the underlying differential operator and FE mesh. The stability is derived from the DPG concept of optimal discontinuous test functions computed on-the-fly, whereas the trial space consist of classical FE basis functions.  
 </p>
 
 ###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction  [[doi](https://doi.org/10.1007/978-3-030-41800-7)]
+
+### Goal-Orietned Error Estimation 
+
+<figure>
+  <img src="/assets/images/figs.pdf  width="70px" height="100px"> 
+  <figcaption style="text-align: justify">  Goal-oriented mesh refinement. Left:  Center: Right: </figcaption>
+</figure>
+
+
+

@@ -35,8 +35,12 @@ named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 ### The AVS-FE Method
 
 <figure>
+  <img src="/assets/images/l2_err_u.eps"  width="70px" height="100px"> 
+  <figcaption style="text-align: justify">  Optimal <em>hp</em>-asymptotic convergence rates for the AVS-FE method applied to a convection-diffusion PDE. Above: <em>L</em>(</em><sup>2</sup>)  Below: </figcaption>
+</figure>
+
+<figure>
   <img src="/assets/images/l2_err_q.png"  width="70px" height="100px"> 
-  <figcaption style="text-align: justify"> <em>hp</em>- Asymptotic convergence rates for the AVS-FE trial variables. Left:  Right: </figcaption>
 </figure>
 
 <p style="text-align: justify">

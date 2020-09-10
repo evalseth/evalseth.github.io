@@ -35,7 +35,7 @@ named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 ### The AVS-FE Method
 
 <figure>
-  <img src="/assets/images/l2_err_q.pdf" alt="" width="20"> <img src="/assets/images/l2_err_u.pdf" alt="" width="20"> 
+  <img src="/assets/images/l2_err_q.pdf" alt="" width=0.5\textwidth> <img src="/assets/images/l2_err_u.pdf" alt="" width="20"> 
   <figcaption style="text-align: justify"> <em>hp</em>- Asymptotic convergence rates for the AVS-FE trial variables. Left:  Right: </figcaption>
 </figure>
 

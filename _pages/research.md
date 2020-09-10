@@ -35,8 +35,8 @@ named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 ### The AVS-FE Method
 
 <figure>
-  <img src="/assets/images/l2_err_u.eps"  width="70px" height="100px"> 
-  <figcaption style="text-align: justify">  Optimal <em>hp</em>-asymptotic convergence rates for the AVS-FE method applied to a convection-diffusion PDE. Above: <em>L</em></em><sup>2</sup> error of the PDE base variable  Below: <em>L</em></em><sup>2</sup> error of the AVS-FE flux variable </figcaption>
+  <img src="/assets/images/l2_err_u.png"  width="70px" height="100px"> 
+  <figcaption style="text-align: justify">  Optimal <em>hp</em>-asymptotic convergence rates for the AVS-FE method applied to a convection-diffusion PDE. Above: <em>L</em></em><sup>2</sup> error of the PDE base variable. Below: <em>L</em></em><sup>2</sup> error of the AVS-FE flux variable </figcaption>
 </figure>
 
 <figure>

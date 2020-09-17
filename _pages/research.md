@@ -38,18 +38,19 @@ named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
   <img src="/assets/images/l2_err_u.png"  width="70px" height="100px"> 
   <figcaption style="text-align: justify">  Optimal <em>hp</em>-asymptotic convergence rates for the AVS-FE method applied to a convection-diffusion PDE. Above: <em>L<em><sup>2</sup> error of the PDE base variable. Below: <em>L<em><sup>2</sup> error of the AVS-FE flux variable </figcaption>
 </figure>
+    
 <figure>
   <img src="/assets/images/l2_err_q.png"  width="70px" height="100px"> 
 </figure>
 
 <p style="text-align: justify">
-The AVS-FE method is uncondtionally stable, regardless of the underlying differential operator and FE mesh. The stability is derived from the DPG concept of optimal discontinuous test functions computed on-the-fly, whereas the trial space consist of classical FE basis functions.  
+The AVS-FE method is uncondtionally stable, regardless of the underlying differential operator and FE mesh. The stability is derived from the DPG concept of 
+optimal discontinuous test functions computed on-the-fly, whereas the trial space consist of classical FE basis functions.  
 </p>
 
 ###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction  [[doi](https://doi.org/10.1007/978-3-030-41800-7)]
 
 ### Goal-Orietned Error Estimation 
-
                                 
 <figure>
   <img src="/assets/images/figs.pdf" alt="">

@@ -32,7 +32,7 @@ Additionally, as part of a National Science Foundation sponsored project, my wor
 named discontinuous Galerkin Shallow Water Equations model (DG-SWEM).
 </p>
 
-## The AVS-FE Method
+### The AVS-FE Method
 
 <figure>
   <img src="/assets/images/l2_err_u.png"  width="70px" height="100px"> 

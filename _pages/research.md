@@ -47,7 +47,7 @@ optimal discontinuous test functions computed on-the-fly, whereas the trial spac
 ###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction  [[doi](https://doi.org/10.1007/978-3-030-41800-7)]
 
 ### Goal-Orietned Error Estimation 
-                                
+                               
 <figure>
   <img src="/assets/images/figs.pdf" alt="">
   <figcaption style="text-align: justify">Goal-oriented mesh refinement. Left:  Center: Right: </figcaption>

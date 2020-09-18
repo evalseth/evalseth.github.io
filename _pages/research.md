@@ -44,7 +44,7 @@ The AVS-FE method is uncondtionally stable, regardless of the underlying differe
 optimal discontinuous test functions computed on-the-fly, whereas the trial space consist of classical FE basis functions.  
 </p>
 
-###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction  [[doi](https://doi.org/10.1007/978-3-030-41800-7)]
+###### Calo, V.M., Romkes, A., Valseth, E. (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction _Lecture Notes in Computational Science and Engineering_ [[doi](https://doi.org/10.1007/978-3-030-41800-7)]
 
 ### Goal-Orietned Error Estimation 
                                
@@ -53,5 +53,9 @@ optimal discontinuous test functions computed on-the-fly, whereas the trial spac
   <figcaption style="text-align: justify">Goal-oriented mesh refinement for a convection-domainated diffusion problem in the AVS-FE method using a new approach to the solution of the dual problem. The qunatity of interest is the flux across a line segment on the left side of the domain.  Left: Convergence of the estimate and exact error.  Center: Effectivity index of the estimate. Right: Final adapted mesh. </figcaption>
 </figure>
 
+<p style="text-align: justify">
+The stability property of the AVS-FE allows us to establish approximations of the dual problem to the convection-domainated diffusion PDE which is necessary in goal-oriented error estimation. To ensure a continuous dual solution, we introduce a new approach in which we consider the dual PDE and its AVS-FE approximation. This leads to highly accurate error estimates even for convection dominated scenarios in which classical FE methods suffer from loss of stability. The first-order system description in the AVS-FE method also allows straightforward error estimation of fluxes.   
+</p>
 
+###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Submitted to Computers and Mathematics with Applications_ [[preprint](https://arxiv.org/pdf/2003.10904)]
 

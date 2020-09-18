@@ -50,7 +50,7 @@ optimal discontinuous test functions computed on-the-fly, whereas the trial spac
                                
 <figure>
   <img src="/assets/images/figs.pdf" alt="">
-  <figcaption style="text-align: justify">Goal-oriented mesh refinement. Left:  Center: Right: </figcaption>
+  <figcaption style="text-align: justify">Goal-oriented mesh refinement for a convection-domainated diffusion problem in the AVS-FE method using a new approach to the solution of the dual problem. The qunatity of interest is the flux across a line segment on the left side of the domain.  Left: Convergence of the estimate and exact error.  Center: Effectivity index of the estimate. Right: Final adapted mesh. </figcaption>
 </figure>
 
 

@@ -75,9 +75,25 @@ The stability property of the AVS-FE allows us to establish approximations of th
 The extraction and refinement of minerals is generally requires vast amounts of water, in some cases up to 60,000 m<sup>3</sup>  per day.
 In an effort to reduce this amount of water a team of researchers at <a href="https://www.sdsmt.edu/">South Dakota School of Mines and Technology</a> is working on novel refinement techniques under a NSF grant titeled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1805550&HistoricalAwards=false"> Sustainable System for Mineral Beneficiation
 </a>. 
-As a mathematical model for the mineral separation, we use the Cahn-Hilliard equation and develop corresponding space-time finite element approximations in an effort to predict the mineral separation process.  
+As a mathematical model for the mineral separation, we use the Cahn-Hilliard equation and develop corresponding space-time finite element approximations in an effort to predict the mineral separation process. Working with metallurgists and mineral separation experts, a space-time AVS-FE method will be used to predict the mineral separation process and guide the design process of a new mineral separator.
 </p>
 
 
 ###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Submitted to Journal of Computational Physics_ [[preprint](https://arxiv.org/pdf/2006.02283.pdf)]
+
+### Water Wave Propagation
+
+<figure>
+  <img src="/assets/images/figs3.pdf" alt="">
+  <figcaption style="text-align: justify"> One dimensional surface water wave propagation governed by the Korteweg-de Vries equation. Left: Space-time solution of the Korteweg-de Vries equation, the colorbar represents the elevation of the surface in space (x-axis) and time (y-axis). Right: Final adaptively refined mesh. </figcaption>
+</figure>
+    
+
+<p style="text-align: justify">
+In an ongoing sequence of papers, <a href="https://www.oden.utexas.edu/people/36/">Clint Dawson</a> and I are developing DPG methods for the mathematical modeling of hurricane storm surge. 
+As an initial verification, we considered the Korteweg-de Vries equation, one of the simplest water wave mathematical models. Currently, we are working on more complex mathematical models such as the shallow water equations.
+</p>
+
+
+###### Valseth, E., Dawson, C. (2020) An Unconditionally Stable Space-Time FE Method for the Korteweg-de Vries Equation. _Computer Methods in Applied Mechanics and Engineering_ 371:113297, [[doi](https://doi.org/10.1016/j.cma.2020.113297)]
 

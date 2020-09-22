@@ -59,3 +59,25 @@ The stability property of the AVS-FE allows us to establish approximations of th
 
 ###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Submitted to Computers and Mathematics with Applications_ [[preprint](https://arxiv.org/pdf/2003.10904)]
 
+
+## Applications
+
+
+### Mineral Separation 
+
+<figure>
+  <img src="/assets/images/figs2.pdf" alt="">
+  <figcaption style="text-align: justify">Phase evolution of a binary liquid towards the lowest energy state governed by the Cahn-Hilliard equation.  Left: Initial state.  Center: 0.0015 seconds into evolution process. Right: Final state after 0.015 seconds. </figcaption>
+</figure>
+    
+
+<p style="text-align: justify">
+The extraction and refinement of minerals is generally requires vast amounts of water, in some cases up to 60,000 m<sup>3</sup>  per day.
+In an effort to reduce this amount of water a team of researchers at <a href="https://www.sdsmt.edu/">South Dakota School of Mines and Technology</a> is working on novel refinement techniques under a NSF grant titeled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1805550&HistoricalAwards=false"> Sustainable System for Mineral Beneficiation
+</a>. 
+As a mathematical model for the mineral separation, we use the Cahn-Hilliard equation and develop corresponding space-time finite element approximations in an effort to predict the mineral separation process.  
+</p>
+
+
+###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Submitted to Journal of Computational Physics_ [[preprint](https://arxiv.org/pdf/2006.02283.pdf)]
+

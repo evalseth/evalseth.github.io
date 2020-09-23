@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-<img src="/assets/images/hiking.jpg" width="340px" alt="Eirik Valseth" align="right" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 10px;" z-index="1" />
+<img src="/assets/images/Hiking.jpg" width="340px" alt="Eirik Valseth" align="right" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 10px;" z-index="1" />
 
 
 

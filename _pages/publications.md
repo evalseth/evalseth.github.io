@@ -15,6 +15,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Valseth, E., Romkes, A. (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems. arXiv:2003.10904 [math.NA]  [[preprint](https://arxiv.org/abs/2003.10904)] |
 
+| Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
+
 ## Scientific Articles
 
 | Calo, V.M., Romkes, A., Valseth, E.  (2020) Variationally Stable Analysis for Finite Element Computations: An Introduction. _Lecture Notes in Computational Science and Engineering: Barrenechea G., Mackenzie J. (eds) Boundary and Interior Layers, Computational and Asymptotic Methods BAIL 2018, Springer_ [[doi](https://doi.org/10.1007/978-3-030-41800-7)] |

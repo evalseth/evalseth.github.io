@@ -98,6 +98,8 @@ As an initial verification, we considered the Korteweg-de Vries equation, one of
 ###### Valseth, E., Dawson, C. (2020) An Unconditionally Stable Space-Time FE Method for the Korteweg-de Vries Equation. _Computer Methods in Applied Mechanics and Engineering_ 371:113297, [[doi](https://doi.org/10.1016/j.cma.2020.113297)]
 
 
+### Shallow Water Flow
+
 <figure>
   <img src="/assets/images/SW_figs.pdf" alt="">
   <figcaption style="text-align: justify"> Adaptive mesh refinement for the limiting case of purely convective flow. Left: x component of the depth-averaged velocity field. Center: Adaptively refined mesh Right: Convergence history. </figcaption>

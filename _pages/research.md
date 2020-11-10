@@ -57,7 +57,7 @@ optimal discontinuous test functions computed on-the-fly, whereas the trial spac
 The stability property of the AVS-FE allows us to establish approximations of the dual problem to the convection-domainated diffusion PDE which is necessary in goal-oriented error estimation. To ensure a continuous dual solution, we introduce a new approach in which we consider the dual PDE and its AVS-FE approximation. This leads to highly accurate error estimates even for convection dominated scenarios in which classical FE methods suffer from loss of stability. The first-order system description in the AVS-FE method also allows straightforward error estimation of fluxes.   
 </p>
 
-###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Submitted to Computers and Mathematics with Applications_ [[preprint](https://arxiv.org/pdf/2003.10904)]
+###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Accepted to Computers and Mathematics with Applications_ [[preprint](https://arxiv.org/pdf/2003.10904)]
 
 
 ## Applications
@@ -96,4 +96,23 @@ As an initial verification, we considered the Korteweg-de Vries equation, one of
 
 
 ###### Valseth, E., Dawson, C. (2020) An Unconditionally Stable Space-Time FE Method for the Korteweg-de Vries Equation. _Computer Methods in Applied Mechanics and Engineering_ 371:113297, [[doi](https://doi.org/10.1016/j.cma.2020.113297)]
+
+
+<figure>
+  <img src="/assets/images/SW_figs.pdf" alt="">
+  <figcaption style="text-align: justify"> Adaptive mesh refinement for the limiting case of purely convective flow. Left: x component of the depth-averaged velocity field. Center: Adaptively refined mesh Right: Convergence history. </figcaption>
+</figure>
+    
+
+<p style="text-align: justify">
+ In the second paper in this sequence, we considered the 2D shallow water equations. We establish a priori error estimates as well a multiple numerical 
+ experiments to verify converegence behavior of our space-time FE approximations. 
+We perform multiple verifiactions of physical benchmarks such as dam break and tidal fluctuations. Additionally, we confirm the well-balanced property of the
+ method for the important lake-at-rest case.
+</p>
+
+
+###### Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Submitted_ 
+
+
 

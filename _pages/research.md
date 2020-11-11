@@ -114,7 +114,8 @@ We perform multiple verifiactions of physical benchmarks such as dam break and t
 </p>
 
 
-###### Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Submitted_ 
+
+###### Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Submitted_ [[preprint](https://arxiv.org/pdf/2011.04786.pdf)] 
 
 
 

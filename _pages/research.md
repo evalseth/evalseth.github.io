@@ -118,4 +118,22 @@ We perform multiple verifiactions of physical benchmarks such as dam break and t
 ###### Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Submitted_ [[preprint](https://arxiv.org/pdf/2011.04786.pdf)] 
 
 
+### Nearly Incompressible Materials
+
+<figure>
+  <img src="/assets/images/elastic_figs.pdf" alt="">
+  <figcaption style="text-align: justify"> Adaptive mesh refinement for a composite material consisting of a stiff inclusion and a nearly incompressible rubber matrix. Left: Problem definition. Center: Adaptively refined mesh Right: x-component of the normal stress. </figcaption>
+</figure>
+    
+
+<p style="text-align: justify">
+For modern enginerering materials such as polymers and composite materials, classical finite element methods often suffer from a loss of stability when the Poisson's ratio approach the incompressible limit. To present a robust method that does not loose stability in this limit, we introduce a weighted least squares FE method for nearly incompressible linear elastostatics. We establish a priori error bounds and several numerical verifications comparing our method to the classical Bubnov-Galerkiun and least squares FE methods. Numerical verifications exploiting a built-in error indicator in adaptive mesh refinements and consideration of a classical engineering structure, a beam, show the applicability of the method to challenging engineering applications. 
+</p>
+
+
+
+###### Valseth, E., Romkes, R., Kaul, A., Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Submitted_ [[preprint](https://arxiv.org/pdf/2101.06297.pdf)] 
+
+
+
 

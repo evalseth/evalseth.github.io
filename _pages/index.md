@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/EV.JPG" width="340px" alt="Eirik Valseth" align="right" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 10px;" z-index="1" />
+<img src="/assets/images/EV_new.JPG" width="340px" alt="Eirik Valseth" align="right" style="display:block;margin-bottom:10px;margin-left:auto;margin-right:auto;padding-left: 10px;padding-right: 10px;" z-index="1" />
 
 <!-- # About -->
 

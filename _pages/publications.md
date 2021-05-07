@@ -11,13 +11,13 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-| Valseth, E., Romkes, A., Kaul, A.,  Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Submitted_ [[preprint](https://arxiv.org/abs/2101.06297)]  |
+| Valseth, E., Romkes, A., Kaul, A.,  Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Accepted in International Journal for Numerical Methods in Engineering_ [[preprint](https://arxiv.org/abs/2101.06297)]  |
 
 | Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Submitted_ [[preprint](https://arxiv.org/pdf/2011.04786.pdf)]  |
 
 | Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2020) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
 
-| Valseth, E., Romkes, A., Kaul, A.R. (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation. arXiv:2006.02283 [math.NA]  [[preprint](https://arxiv.org/abs/2006.02283)] |
+| Valseth, E., Romkes, A., Kaul, A.R. (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation _Accepted in Journal of Computational Physics_ arXiv:2006.02283 [math.NA]  [[preprint](https://arxiv.org/abs/2006.02283)] |
 
 ## Scientific Articles
 

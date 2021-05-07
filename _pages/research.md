@@ -79,7 +79,7 @@ As a mathematical model for the mineral separation, we use the Cahn-Hilliard equ
 </p>
 
 
-###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Submitted to Journal of Computational Physics_ [[preprint](https://arxiv.org/pdf/2006.02283.pdf)]
+###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Accepted in Journal of Computational Physics_ [[preprint](https://arxiv.org/pdf/2006.02283.pdf)]
 
 ### Water Wave Propagation
 
@@ -132,7 +132,7 @@ For modern enginerering materials such as polymers and composite materials, clas
 
 
 
-###### Valseth, E., Romkes, R., Kaul, A., Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Submitted_ [[preprint](https://arxiv.org/pdf/2101.06297.pdf)] 
+###### Valseth, E., Romkes, R., Kaul, A., Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Accepted in International Journal for Numerical Methods in Engineering_ [[preprint](https://arxiv.org/pdf/2101.06297.pdf)] 
 
 
 

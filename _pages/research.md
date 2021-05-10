@@ -132,7 +132,7 @@ For modern enginerering materials such as polymers and composite materials, clas
 
 
 
-###### Valseth, E., Romkes, R., Kaul, A., Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _Accepted in International Journal for Numerical Methods in Engineering_ [[preprint](https://arxiv.org/pdf/2101.06297.pdf)] 
+###### Valseth, E., Romkes, R., Kaul, A., Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _International Journal for Numerical Methods in Engineering_ [[doi](https://doi.org/10.1002/nme.6743)] 
 
 
 

@@ -11,7 +11,7 @@ author_profile: true
 <!-- # About -->
 
 <p style="text-align: justify; padding-right: 10px;">
-I am currently a postdoctoral fellow in the <a href="https://www.oden.utexas.edu/research/centers-groups/chg/">Computational Hydraulics Group</a> at the <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin.
+I am currently a research associate in the <a href="https://www.oden.utexas.edu/research/centers-groups/chg/">Computational Hydraulics Group</a> at the <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin.
 My work is supervised by <a href="https://www.oden.utexas.edu/people/36/">Clint Dawson</a>.
 I previously attended the South Dakota School of Mines and Technology where I earned my Ph.D. in mechanical engineering supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>.  
 </p>

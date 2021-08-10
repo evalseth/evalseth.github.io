@@ -15,11 +15,12 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2020) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
 
-| Valseth, E., Romkes, A., Kaul, A.R. (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation _Accepted in Journal of Computational Physics_ arXiv:2006.02283 [math.NA]  [[preprint](https://arxiv.org/abs/2006.02283)] |
 
 ## Scientific Articles
 
 | Valseth, E., Romkes, A., Kaul, A.,  Dawson, C., (2021) A Stable Mixed FE Method for Nearly Incompressible Linear Elastostatics  _International Journal for Numerical Methods in Engineering_ [[doi](https://doi.org/10.1002/nme.6743)]  |
+
+| Valseth, E., Romkes, A., Kaul, A.R. (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation _Journal of Computational Physics_ arXiv:2006.02283 [math.NA]  [[doi](https://doi.org/10.1016/j.jcp.2021.110426)] |
 
 | Valseth, E., Romkes, A. (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems.  _Computers and Mathematics with Applications_ [[doi](https://doi.org/10.1016/j.camwa.2020.10.019)] |
 

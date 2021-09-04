@@ -17,7 +17,7 @@ My research is in the intersection engineering, mathematics, physics, and comput
 <p style="text-align: justify">
 My past research has resulted in the development of a new finite element method, called the <a href="https://link.springer.com/chapter/10.1007/978-3-030-41800-7_2">Automatic Variationally Stable Finite Element (AVS-FE) method</a>.
 Currently, much of my research efforts are focused on development of finite element methods and coupling of finite element methods to exploit the properties of individual methods and models across the coastal floodplain. A second ongoing research topic I devote a significant amount of effort to is the verification of new 
- finite element meshes for the ADCIRC <a href="https://adcirc.org">ADCIRC</a> model to be used on the operational forecasting of hurricane storm surge on the US Gulf coast. I am also fortunate to work on a wide array of other smaller and larger projects with talented postdocs and Ph.D. students in the Computational Hydraulics group at the Oden Institute.   
+ finite element meshes for the <a href="https://adcirc.org">ADCIRC</a> model to be used on the operational forecasting of hurricane storm surge on the US Gulf coast. I am also fortunate to work on a wide array of other smaller and larger projects with talented postdocs and Ph.D. students in the Computational Hydraulics group at the Oden Institute.   
 </p>
 
 ## Finite Element Methods

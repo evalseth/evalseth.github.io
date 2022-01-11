@@ -138,4 +138,12 @@ For modern enginerering materials such as polymers and composite materials, clas
 
 ## Coastal Modeling
 
+### Modeling of Fish Larvae Transport 
+
+<p style="text-align: justify">
+The Port of Corpus Christi is a busy shipping hub for shipping goods and materials to and from the United States. To reach the port, ships must travel through the 47 ft. deep man made ship channel which extends from the Aransas Pass to the port. To accomodate larger ships, an increase in the depth of this ship channel has been proposed. In collaboration with <a href="https://utmsi.utexas.edu/component/cobalt/item/9-marine-science/320-buskey-edward-j?Itemid=550">Ed Buskey</a> of The Univeristy of Texas at Austin Marine Science Institute, we develop mathematical models governing the transport of Red drum fish larvae, modeled as passive Lagrangian particles. Our numerical models indicate negligible impacts of the proposed deeper channel on the transport of Red drum larvae from offshore breeding grounds through Aransas Pass to appropriate nursing grounds. 
+</p>
+
+
+###### Valseth, E., Loveland, M., Dawson, C., Buskey, E., (2021) A Study of the Potential Impact of Dredging the Corpus Christi Ship Channel on Passive Particle Transport. _Journal of Marine Science and Engineering_ [[doi](https://doi.org/10.3390/jmse9090935)]
 

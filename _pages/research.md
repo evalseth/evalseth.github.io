@@ -138,6 +138,10 @@ For modern enginerering materials such as polymers and composite materials, clas
 
 ## Coastal Modeling
 
+<p style="text-align: justify">
+In a sequence of projects and papers, we model and investiate the impacts of dredging a ship channel on the Texas Coast. We first consider the effects on estuarine dependent fish larvae through modeling coastal circulation and Lagrangian particle transport. In the second case, we consider the effects on hurricane storm surge magnitude and inundation. In particular, we study the impacts of Hurricane Harvey and synthesized versions of Harvey. 
+</p>
+
 ### Modeling of Fish Larvae Transport 
 
 <p style="text-align: justify">
@@ -146,4 +150,13 @@ The Port of Corpus Christi is a busy shipping hub for shipping goods and materia
 
 
 ###### Valseth, E., Loveland, M., Dawson, C., Buskey, E., (2021) A Study of the Potential Impact of Dredging the Corpus Christi Ship Channel on Passive Particle Transport. _Journal of Marine Science and Engineering_ [[doi](https://doi.org/10.3390/jmse9090935)]
+
+### Modeling of Storm Surge
+
+<p style="text-align: justify">
+The Port of Corpus Christi is a busy shipping hub for shipping goods and materials to and from the United States. To reach the port, ships must travel through the 47 ft. deep man made ship channel which extends from the Aransas Pass to the port. To accomodate larger ships, an increase in the depth of this ship channel has been proposed. In collaboration with <a href="https://utmsi.utexas.edu/component/cobalt/item/9-marine-science/320-buskey-edward-j?Itemid=550">Ed Buskey</a> of The Univeristy of Texas at Austin Marine Science Institute, we develop mathematical models governing hurricane storm surge. We apply the National Hurricane Center best track model and a Generalized Asymmetric Holland Model for hurricane wind and pressure fields. For the condisdered Hurricane Harvey and synthesized versions of Harvey, our model finds that most of the area near Corpus Christi will experience a reduced maximum surge magnitude, whereas some localized areas will see increased suge up to 15cm. 
+</p>
+
+
+###### Valseth, E., Dawson, C., Buskey, E., (2022) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge. _in preparation_ 
 

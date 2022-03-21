@@ -33,6 +33,11 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 ## Reports 
 | Dawson, C., Loveland, M., Valseth, E. (2021) Potential Effects of Deepening of the Aransas Ship Channel on Particle Transport: Implications for Recruitment of Estuarine Dependent Larvae. _UT Marine Science Institute Report_  [[available here](https://utmsi.utexas.edu/images/MSI/Blog_Research/OdenInstitute_PotentialEffectsofDeepeningoftheAransasShipChannelonParticleTransport.pdf)] |
 
+
+| Vlseth, E. and Dawson, C. (2021) Potential Effects of Deepening of the Corpus Christi Ship Channel on Hurricane Storm Surge: A Case Study. _UT Marine Science Institute Report_  [[available here](https://utmsi.utexas.edu/images/MSI/Blog_Research/Valseth_and_Dawson_2022.pdf)] |
+
+
+
 ## Other
 
 | Valseth, E. (2019). Automatic Variationally Stable Analysis for Finite Element Computations. Ph.D. Dissertation, South Dakota School of Mines and Technlology, Rapid City, South Dakota, U.S.A. |

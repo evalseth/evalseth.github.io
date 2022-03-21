@@ -33,10 +33,11 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 | Valseth, E., Dawson, C. (2020) An Unconditionally Stable Space-Time FE Method for the Korteweg-de Vries Equation. _Computer Methods in Applied Mechanics and Engineering_ 371:113297, [[doi](https://doi.org/10.1016/j.cma.2020.113297)] |
 
 ## Reports 
+
 | Dawson, C., Loveland, M., Valseth, E. (2021) Potential Effects of Deepening of the Aransas Ship Channel on Particle Transport: Implications for Recruitment of Estuarine Dependent Larvae. _UT Marine Science Institute Report_  [[available here](https://utmsi.utexas.edu/images/MSI/Blog_Research/OdenInstitute_PotentialEffectsofDeepeningoftheAransasShipChannelonParticleTransport.pdf)] |
 
 
-| Vlseth, E. and Dawson, C. (2021) Potential Effects of Deepening of the Corpus Christi Ship Channel on Hurricane Storm Surge: A Case Study. _UT Marine Science Institute Report_  [[available here](https://utmsi.utexas.edu/images/MSI/Blog_Research/Valseth_and_Dawson_2022.pdf)] |
+| Valseth, E. and Dawson, C. (2021) Potential Effects of Deepening of the Corpus Christi Ship Channel on Hurricane Storm Surge: A Case Study. _UT Marine Science Institute Report_  [[available here](https://utmsi.utexas.edu/images/MSI/Blog_Research/Valseth_and_Dawson_2022.pdf)] |
 
 
 

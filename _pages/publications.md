@@ -18,7 +18,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Valseth, E., Dawson, C., (2021) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[doi](https://doi.org/10.1007/s10596-021-10108-4)]  |
+| Valseth, E., Dawson, C., (2021) A Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[doi](https://doi.org/10.1007/s10596-021-10108-4)]  |
 
 | Valseth, E., Loveland, M., Dawson, C., Buskey, E., (2021) A Study of the Potential Impact of Dredging the Corpus Christi Ship Channel on Passive Particle Transport. _Journal of Marine Science and Engineering_ [[doi](https://doi.org/10.3390/jmse9090935)]  |
 

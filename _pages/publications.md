@@ -11,12 +11,14 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-| Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Accepted in Computational Geosciences_ [[preprint](https://arxiv.org/pdf/2011.04786.pdf)]  |
 
-| Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2020) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
+
+| Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2021) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
 
 
 ## Scientific Articles
+
+| Valseth, E., Dawson, C., (2021) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[DOI](https://doi.org/10.1007/s10596-021-10108-4)]  |
 
 | Valseth, E., Loveland, M., Dawson, C., Buskey, E., (2021) A Study of the Potential Impact of Dredging the Corpus Christi Ship Channel on Passive Particle Transport. _Journal of Marine Science and Engineering_ [[doi](https://doi.org/10.3390/jmse9090935)]  |
 

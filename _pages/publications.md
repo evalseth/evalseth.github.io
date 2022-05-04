@@ -11,7 +11,9 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Pachev, B., Valseth, E., Dawson, C. (2022) Learning Storm Surge with Gradient Boosting.   arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
 
+| Loveland, M. Valseth, E., Lukac, M, Dawson, C. (2022) Extending FEniCS to Work in Higher Dimensions Using Tensor Product Finite Elements.  arXiv:2202.00762 [math.NA]  [[preprint](https://arxiv.org/pdf/2202.00762.pdf)] |
 
 | Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2021) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
 

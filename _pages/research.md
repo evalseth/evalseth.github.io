@@ -20,6 +20,12 @@ Currently, much of my research efforts are focused on development of finite elem
  finite element meshes for the <a href="https://adcirc.org">ADCIRC</a> model to be used on the operational forecasting of hurricane storm surge on the US Gulf coast. I am also fortunate to work on a wide array of other smaller and larger projects with talented postdocs and Ph.D. students in the Computational Hydraulics group at the Oden Institute.   
 </p>
 
+<p style="text-align: justify">
+A significant portion of my work and research requires programming and development of computer codes. These codes are nearly always openly available online, see for example the ADCIRC website and my  <a href="https://github.com/evalseth/Stable_FEMs">code repository</a> of stable finite element methods implemented in <a href="https://fenicsproject.org">FEniCS</a>.
+</p>
+
+
+
 ## Finite Element Methods
 
 <p style="text-align: justify">

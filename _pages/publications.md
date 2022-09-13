@@ -13,12 +13,13 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Pachev, B., Valseth, E., Dawson, C. (2022) Learning Storm Surge with Gradient Boosting.   arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
 
-| Loveland, M. Valseth, E., Lukac, M, Dawson, C. (2022) Extending FEniCS to Work in Higher Dimensions Using Tensor Product Finite Elements.  arXiv:2202.00762 [math.NA]  [[preprint](https://arxiv.org/pdf/2202.00762.pdf)] |
+| C. Chen, Dawson, C.Valseth, E. (2022) Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods.   arXiv:2205.11396 [physics.comp-ph]  [[preprint](https://arxiv.org/pdf/2205.11396.pdf)] |
 
-| Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A., (2021) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems.  arXiv:2010.00057 [math.NA]  [[preprint](https://arxiv.org/abs/2010.00057)] |
-
+| Maczuga, P., Oliver-Serra, A., Paszynska, A., Valseth, E., Paszynski, M. (2022) Graph-Grammar Based Algorithm for Asteroid Tsunami Simulations. Accepted in Journal of Computational Science (2022) [[preprint](https://www.researchgate.net/publication/363480435_Graph-grammar_based_algorithm_for_asteroid_tsunami_simulations)] |
 
 ## Scientific Articles
+
+| Loveland, M. Valseth, E., Lukac, M, Dawson, C. (2022) Extending FEniCS to Work in Higher Dimensions Using Tensor Product Finite Elements. _Journal of Computational Science_   [[doi](https://doi.org/10.1016/j.jocs.2022.101831)] | 
 
 | Valseth, E., Dawson, C., (2021) A Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[doi](https://doi.org/10.1007/s10596-021-10108-4)]  |
 

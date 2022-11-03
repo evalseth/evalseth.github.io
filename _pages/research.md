@@ -164,5 +164,13 @@ The Port of Corpus Christi is a busy shipping hub for shipping goods and materia
 </p>
 
 
-###### Valseth, E., Dawson, C., Buskey, E., (2022) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge. _in preparation_ 
+###### Valseth, E., Dawson, C., Buskey, E., (2022) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge. _submitted_ 
+
+## Disease and Flood Modeling
+
+<p style="text-align: justify">
+A recent report by the <a href="https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health">World Health Organization</a>, noted the effects of the changing climate on the spread of infectious diseases. For example, after flooding events, increased transmission of diseases such as <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079365/">Malaria</a> has been frequently noted and observed.   
+In a project recently funded by the <a href="https://wellcome.org">Wellcome Trust</a>, we investigate and seek to develop new integrated flood and disease models to better predict and understand the interplay between the two processes.  
+</p>
+
 

@@ -12,6 +12,6 @@ author_profile: true
 
 
 <p style="text-align: justify; padding-right: 10px;">
-Outside work, I enjoy traveling with my partner <a href="https://www.usgs.gov/staff-profiles/kristen-valseth">Kristen</a>, reading, playing board games, cooking, hiking, and fly fishing to mention a few. During the winter my favorite activity is skiing, both downhill and cross country.
+Outside work, I enjoy traveling with my partner <a href="https://www.mn.uio.no/math/english/?vrtx=person-view&uid=krisvals">Kristen</a>, reading, playing board games, cooking, hiking, and fly fishing to mention a few. During the winter my favorite activity is skiing, both downhill and cross country.
 </p>
 

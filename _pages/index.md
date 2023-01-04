@@ -11,8 +11,8 @@ author_profile: true
 <!-- # About -->
 
 <p style="text-align: justify; padding-right: 10px;">
-Currently, I split my time between the <a href="https://www.mn.uio.no/math/english/">Departement of Mathematics</a> at The University of Oslo, and the  <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin. At the Oden Institute, I am a research associate in the <a href="https://www.oden.utexas.edu/research/centers-groups/chg/">Computational Hydraulics Group</a> at led by <a href="https://www.oden.utexas.edu/people/36/">Clint Dawson</a>. At The University of Oslo, I am a postdoc funded by my  individual Marie Skłodowska-Curie Actions project working with <a href="https://kent-and.github.io">Kent-Andre Mardal</a>. Starting January 2023 I will be an Associate Professor of Scientific Computing at the Norwegian University of Life Science <a href="https://www.nmbu.no/fakultet/realtek/om/institutter/datavitenskap">Department of Data Science</a>.
-I previously attended the South Dakota School of Mines and Technology where I earned my Ph.D. in mechanical engineering supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>.  
+Currently, I am an Associate Professor of Scientific Computing at the Norwegian University of Life Science <a href="https://www.nmbu.no/fakultet/realtek/om/institutter/datavitenskap">Department of Data Science</a> as well as a research associate at the  <a href="https://www.oden.utexas.edu">Oden Institute</a> at the University of Texas at Austin. Prior to joining NMBU, I was also a postdoc funded by my individual Marie Skłodowska-Curie Actions project working with <a href="https://kent-and.github.io">Kent-Andre Mardal</a>. 
+I attended the South Dakota School of Mines and Technology where I earned my Ph.D. in mechanical engineering supervised by <a href="https://www.sdsmt.edu/Directories/Personnel/Romkes,-Albert/">Albert Romkes</a>.  
 </p>
 
 

@@ -14,6 +14,14 @@ author_profile: true
 - The Finite Element Method [TBM250](https://www.nmbu.no/course/TBM250). 
 - Programming and Data Processing [INF120](https://www.nmbu.no/course/INF120)
 
+#### Students 
+
+##### Ph.D.
+- TBA Fall 2023
+
+##### M.Sc.
+- TBA Spring 2024
+
 
 ## South Dakota School of Mines and Technology
 

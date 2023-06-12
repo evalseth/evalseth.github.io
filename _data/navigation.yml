@@ -8,5 +8,7 @@ main:
     url: /publications/
   - title: "Teaching and Students"
     url: /teaching/
+  - title: "Conferences/Traveling"
+    url: /conferences/
   - title: "CV" 
     url: /CV/

@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching and Students"
 layout: archive
 sitemap: true
 permalink: /teaching/
@@ -10,6 +10,7 @@ author_profile: true
 
 ### Associate Professor
 
+#### Courses Thaught
 - The Finite Element Method [TBM250](https://www.nmbu.no/course/TBM250). 
 - Programming and Data Processing [INF120](https://www.nmbu.no/course/INF120)
 

@@ -1,9 +1,9 @@
 ---
 title: "Personal"
 layout: archive
-sitemap: true
+sitemap: false
 permalink: /personal/
-author_profile: true
+author_profile: false
 ---
 
 

@@ -6,6 +6,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Norwegian University of Life Sciences
+
+### Associate Professor
+
+- The Finite Element Method [TBM250](https://www.nmbu.no/course/TBM250). 
+- Programming and Data Processing [INF120](https://www.nmbu.no/course/INF120)
+
+
 ## South Dakota School of Mines and Technology
 
 ### Graduate Teaching Assistant

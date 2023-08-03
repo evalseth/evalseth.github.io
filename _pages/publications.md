@@ -17,6 +17,9 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Pachev, B., Valseth, E., Dawson, C. (2023) Learning Storm Surge with Gradient Boosting.   arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
 
+| Valseth, E., Buskey, E.,  Dawson, C. (2023) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge  [[preprint](https://assets.researchsquare.com/files/rs-1620179/v1_covered.pdf?c=1653491564)] |
+
+
 
 ## Scientific Articles
 

@@ -20,7 +20,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| C. Chen, Dawson, C., Valseth, E. (2022) Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2022.115873)] |
+| Chen, C., Dawson, C., Valseth, E. (2022) Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2022.115873)] |
 
 | Maczuga, P., Oliver-Serra, A., Paszynska, A., Valseth, E., Paszynski, M. (2022) Graph-Grammar Based Algorithm for Asteroid Tsunami Simulations. _Journal of Computational Science_ (2022) [[doi](https://doi.org/10.1016/j.jocs.2022.101856)] |
 

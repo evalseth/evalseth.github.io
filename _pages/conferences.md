@@ -10,6 +10,7 @@ author_profile: true
 
  
 - October 1–6 - 3rd International Workshop on Waves, Storm Surges, and Coastal Hazards in South Bend, Indiana
+- August 3-4 Frontera Users Meeting in Austin, Texas 
 - July 23-27 - 17th US National Congress on Computational Mechanics in Albuquerque, New Mexico
 - June 19-23 - SIAM Conference on Mathematical & Computational Issues in the Geosciences in Bergen, Norway
 - June 11-17 - Visit Prof. Maciej Paszynski at AGH Universoty Krakow, Poland

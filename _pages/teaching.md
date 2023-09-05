@@ -17,7 +17,7 @@ author_profile: true
 #### Students 
 
 ##### Ph.D.
-- TBA Fall 2023
+- Matthew Scarborough (2023-) Main advisor at NMBU 
 
 ##### M.Sc.
 - TBA Spring 2024

@@ -23,7 +23,7 @@ My work is in the development of finite element methods for PDEs where classical
 
 [Learn more about my research](/research/)
 
-Open PhD candidate position at The Norwegian University of Life Science: <a href="https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology">(https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology)https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology</a>
+Open PhD candidate position at The Norwegian University of Life Science: <a href="https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology">https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology</a>
 
 
  

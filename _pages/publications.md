@@ -19,13 +19,14 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Pachev, B., Valseth, E., Dawson, C. (2023) Learning Storm Surge with Gradient Boosting.   arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
 
-| Valseth, E., Buskey, E.,  Dawson, C. (2023) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge _accepted in Journal of Computational Science_  [[preprint](https://assets.researchsquare.com/files/rs-1620179/v1_covered.pdf?c=1653491564)] |
 
 
 
 ## Scientific Articles
 
-| Chen, C., Dawson, C., Valseth, E. (2022) Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2022.115873)] |
+| Valseth, E., Buskey, E.,  Dawson, C. (2023) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge _Journal of Computational Science_  [[doi](https://doi.org/10.1016/j.jocs.2023.102138)] |
+
+| Chen, C., Dawson, C., Valseth, E. (2023) Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2022.115873)] |
 
 | Maczuga, P., Oliver-Serra, A., Paszynska, A., Valseth, E., Paszynski, M. (2022) Graph-Grammar Based Algorithm for Asteroid Tsunami Simulations. _Journal of Computational Science_ (2022) [[doi](https://doi.org/10.1016/j.jocs.2022.101856)] |
 

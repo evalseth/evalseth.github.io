@@ -17,7 +17,8 @@ author_profile: true
 #### Students 
 
 ##### Ph.D.
-- Matthew Scarborough (2023-) Main advisor at NMBU 
+- Matthew Scarborough (2023-) Main advisor at NMBU
+-  [Open position](https://www.jobbnorge.no/en/available-jobs/job/249934/phd-scholarship-in-eco-hydrology)
 
 ##### M.Sc.
 - TBA Spring 2024

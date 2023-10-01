@@ -17,7 +17,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2023) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations.   arXiv:2307.14302 [cs.CE]  [[preprint](https://arxiv.org/pdf/2307.14302.pdf)] |
 
-| Pachev, B., Valseth, E., Dawson, C. (2023) Learning Storm Surge with Gradient Boosting.   arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
+| Pachev, B., Valseth, E., Dawson, C. (2023) Learning Storm Surge with Gradient Boosting. _Accepted in Coastal Engineering_  arXiv:2204.13168 [cs.CE]  [[preprint](https://arxiv.org/pdf/2204.13168.pdf)] |
 
 
 

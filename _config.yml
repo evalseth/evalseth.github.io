@@ -80,7 +80,7 @@ social:
 # Site Author
 author:
   name             : "Eirik Valseth"
-  avatar           : "/assets/images/EV_new.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg". /assets/images/profile_square_new.jpeg
+  avatar           : "/assets/images/IMG_6543.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg". /assets/images/profile_square_new.jpeg
   bio              : #"Computational Science, Numerical Analysis, & Applications"
   location         : "Oslo, Norway"
   email            : "eirik.valseth@nmbu.no"

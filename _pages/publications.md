@@ -17,7 +17,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2023) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations.   arXiv:2307.14302 [cs.CE]  [[preprint](https://arxiv.org/pdf/2307.14302.pdf)] |
 
-| Loveland, M., Meixner, J., Valseth, E.,  Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2308.00817.pdf)] |
+| Loveland, M., Meixner, J., Valseth, E.,  Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. arXiv:2310.06199 [physics.flu-dyn]  [[preprint](https://arxiv.org/abs/2310.06199)] |
 
 
 ## Scientific Articles

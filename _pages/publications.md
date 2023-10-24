@@ -13,7 +13,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2023) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. arXiv:2204.03486 [physics.geo-ph]  [[preprint](https://arxiv.org/abs/2204.03486)] |
 
-| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) WAVEx: Stabilized Finite Elements for Spectral Wind Wave Models Using FEniCSx. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2308.00817.pdf)] |
+| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) WAVEx: Stabilized Finite Elements for Spectral Wind Wave Models Using FEniCSx. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2308.00817.pdf)]  _accepted in Coastal Engineering_|
 
 | Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2023) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations.   arXiv:2307.14302 [cs.CE]  [[preprint](https://arxiv.org/pdf/2307.14302.pdf)] |
 

@@ -164,7 +164,14 @@ The Port of Corpus Christi is a busy shipping hub for shipping goods and materia
 </p>
 
 
-###### Valseth, E., Dawson, C., Buskey, E., (2022) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge. _submitted_ 
+###### Valseth, E., Dawson, C., Buskey, E., (2023) A Study of the Potential Effects of Deepening the Corpus Christi Ship Channel on Hurricane Storm Surge. _Journal of Computational Science_ 
+
+<p style="text-align: justify">
+Accurate, efficient numerical models for storm surge are critical for both long-term risk assesment and to guide emergency management decisions during and before events. While high-fidelity hydrodynamic models such as the ADvanced CIRCulation (ADCIRC) model can accurately predict storm surge, they are very computationally expensive. In this paper, we develop a novel surrogate for the prediction of peak storm surge based on a multi-stage approach. In the first stage, points are classified as inundated or not. In the second, the level of inundation is predicted for each point. Within the new fromulation, we propose a surrogate in which storm surge is predicted independently for each point. This allows for predictions to be made directly for locations not present in the training data, and leads to a reductuib in the number of required model parameters. We our  framework on two vastly diffrent study areas: the Texas coast and the northern portion of the Alaskan coast. For Texas, the model is trained with a large database of synthetic hurricanes, whereas for Alaska, the model is trained on a dataset of 109 historical surge events. We test the surrogate model on actual surge events including the recent Typhoon Merbok (2022) in Alsaska and Hurricane Harvey (2017) in Texas that take place after the events in the training data. 
+</p>
+
+
+###### Pachev, B., Arora, P., del-Castillo-Negrete, C., Valseth, E., & Dawson, C., (2023) A framework for flexible peak storm surge prediction. _Coastal engineering_ [[doi](https://doi.org/10.1016/j.coastaleng.2023.104406)]
 
 ## Disease and Flood Modeling
 

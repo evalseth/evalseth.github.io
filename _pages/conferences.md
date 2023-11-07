@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2023
 
- 
+- November 5-7 - Norway – South Korea Research Networking Event, Seoul, South Korea
 - October 1–6 - 3rd International Workshop on Waves, Storm Surges, and Coastal Hazards in South Bend, Indiana
 - August 3-4 Frontera Users Meeting in Austin, Texas 
 - July 23-27 - 17th US National Congress on Computational Mechanics in Albuquerque, New Mexico

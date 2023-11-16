@@ -13,7 +13,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2023) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. arXiv:2204.03486 [physics.geo-ph]  [[preprint](https://arxiv.org/abs/2204.03486)] |
 
-| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) WAVEx: Stabilized Finite Elements for Spectral Wind Wave Models Using FEniCSx. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2308.00817.pdf)]  _accepted in Coastal Engineering_ |
+| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2308.00817.pdf)]   |
 
 | Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2023) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations.   arXiv:2307.14302 [cs.CE]  [[preprint](https://arxiv.org/pdf/2307.14302.pdf)] |
 
@@ -22,7 +22,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Loveland, M., Meixner, J., Valseth, E.,  Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. _Coastal Engineering_  [[doi](https://doi.org/10.1016/j.coastaleng.2023.104425)] |
+| Loveland, M., Meixner, J., Valseth, E.,  Dawson, C. (2023)  WAVEx: Stabilized Finite Elements for Spectral Wind Wave Models Using FEniCSx. _Coastal Engineering_  [[doi](https://doi.org/10.1016/j.coastaleng.2023.104425)] |
 
 | Pachev, B., Arora, P.,  del-Castillo-Negrete, C.,  Valseth, E., Dawson, C. (2023) A framework for flexible peak storm surge prediction. _Coastal Engineering_   [[doi](https://doi.org/10.1016/j.coastaleng.2023.104406)] | 
 

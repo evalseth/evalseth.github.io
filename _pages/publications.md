@@ -21,7 +21,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
-| Valseth, E., Behnoudfar, P.,, Dawson, C., Romkes, A. (2024) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. _Computers and Mathematics with Applications_  |
+
+| Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A. (2024) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. _Computers and Mathematics with Applications_  |
 
 | Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2024) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2023.116707)] |
 

@@ -15,12 +15,15 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. arXiv:2308.00817 [physics.flu-dyn]  [[preprint](https://arxiv.org/pdf/2310.06199.pdf)]   |
 
-| Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2023) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations. _Accepted in Computer Methods in Applied Mechanics and Engineering_   arXiv:2307.14302 [cs.CE]  [[preprint](https://arxiv.org/pdf/2307.14302.pdf)] |
+
 
 
 
 
 ## Scientific Articles
+| Valseth, E., Behnoudfar, P.,, Dawson, C., Romkes, A. (2024) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. _Computers and Mathematics with Applications_  |
+
+| Wichitrnithed, C., Valseth, E., Kubatko, E., Kang, Y., Hudson, M., Dawson, C. (2024) A Discontinuous Galerkin Finite Element Model for Compound Flood Simulations. _Computer Methods in Applied Mechanics and Engineering_   [[doi](https://doi.org/10.1016/j.cma.2023.116707)] |
 
 | Loveland, M., Meixner, J., Valseth, E.,  Dawson, C. (2023)  WAVEx: Stabilized Finite Elements for Spectral Wind Wave Models Using FEniCSx. _Coastal Engineering_  [[doi](https://doi.org/10.1016/j.coastaleng.2023.104425)] |
 

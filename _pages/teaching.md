@@ -18,10 +18,17 @@ author_profile: true
 
 ##### Ph.D.
 - Matthew Scarborough (2023-) Main advisor at NMBU
+- Anna Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen
 
 
 ##### M.Sc.
-- TBA Spring 2024
+- Jouval Max Erik Somer (University of Oslo 2024) main supervisor with Kent-Andre Mardal
+- Tonje Martine Lorgen Kirkholt (NMBU 2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
+- Navneet Sharma (NMBU 2024) main supervisor with Leon Moonen
+- Sougata Bhattacharya (NMBU 2024) main supervisor with Leon Moonen
+- Raul Andreas Sanjines (NMBU 2024) main supervisor with Fadi Al Machot
+- Sujan Devkota (NMBU 2024) main supervisor with Vajira Thambawita
+
 
 
 ## South Dakota School of Mines and Technology

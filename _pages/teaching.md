@@ -8,7 +8,16 @@ author_profile: true
 
 ## Norwegian University of Life Sciences
 
-### Associate Professor
+### Available Masters Projects
+
+- Develpment of 2D and 3D numeircal models of Norwegian fjords using finite element methods
+- Investiagation of implicit, explicit, and imex time stepping for finite element appriximations in coastal engineering applications
+- Machine learning for meteorological forcings in shallow water numerical models
+- Finite elements methods and Low-Rank approximations (with Jonas Kusch)
+- Modeling batteries and their degradation (with Mathijs Janssen)
+- Modeling of aquaculture offshore installations (with Odd Ivar Lekang and industrial partner)
+
+
 
 #### Courses Thaught
 - The Finite Element Method [TBM250](https://www.nmbu.no/course/TBM250). 
@@ -17,8 +26,8 @@ author_profile: true
 #### Students 
 
 ##### Ph.D.
-- Matthew Scarborough (2023-) Main advisor at NMBU
-- Anna Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen
+- Matthew Scarborough (2023-) Main supervisor 
+- Anna Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
 
 
 ##### M.Sc.

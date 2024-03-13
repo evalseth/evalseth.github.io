@@ -63,7 +63,7 @@ optimal discontinuous test functions computed on-the-fly, whereas the trial spac
 The stability property of the AVS-FE allows us to establish approximations of the dual problem to the convection-domainated diffusion PDE which is necessary in goal-oriented error estimation. To ensure a continuous dual solution, we introduce a new approach in which we consider the dual PDE and its AVS-FE approximation. This leads to highly accurate error estimates even for convection dominated scenarios in which classical FE methods suffer from loss of stability. The first-order system description in the AVS-FE method also allows straightforward error estimation of fluxes.   
 </p>
 
-###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Computers and Mathematics with Applications_ [[preprint](https://arxiv.org/pdf/2003.10904)]
+###### Valseth, E. and Romkes, A., (2020) Goal-Oriented Error Estimation for the Automatic Variationally Stable FE Method for Convection-Dominated Diffusion Problems  _Computers and Mathematics with Applications_ [[doi](https://doi.org/10.1016/j.camwa.2023.12.025)]
 
 
 ## Applications
@@ -85,7 +85,7 @@ As a mathematical model for the mineral separation, we use the Cahn-Hilliard equ
 </p>
 
 
-###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Journal of Computational Physics_ [[preprint](https://arxiv.org/pdf/2006.02283.pdf)]
+###### Valseth, E., Romkes, A., and Kaul, A., (2020) A Stable FE Method For the Space-Time Solution of the Cahn-Hilliard Equation  _Journal of Computational Physics_ [[doi](https://doi.org/10.1016/j.jcp.2021.110426)]
 
 ### Water Wave Propagation
 
@@ -121,7 +121,7 @@ We perform multiple verifiactions of physical benchmarks such as dam break and t
 
 
 
-###### Valseth, E., Dawson, C., (2020) An Adaptive Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[preprint](https://arxiv.org/pdf/2011.04786.pdf)] 
+###### Valseth, E., Dawson, C., (2020) A Stable Space-Time FE Method for the Shallow Water Equations  _Computational Geosciences_ [[preprint](https://doi.org/10.1007/s10596-021-10108-4)] 
 
 
 ### Nearly Incompressible Materials

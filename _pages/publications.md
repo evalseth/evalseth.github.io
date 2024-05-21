@@ -11,9 +11,11 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. arXiv:2405.02310v1 [cs.CE]  [[preprint](https://arxiv.org/pdf/2405.02310)] |
+
 | Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2023) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. arXiv:2204.03486 [physics.geo-ph]  [[preprint](https://arxiv.org/abs/2204.03486)] |
 
-| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico. arXiv:2308.00817 _accepted in Ocean Modelling_  [[preprint](https://arxiv.org/pdf/2310.06199.pdf)]   |
+
 
 
 
@@ -21,6 +23,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+| Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico.   _Ocean Modelling_  [[doi](https://doi.org/10.1016/j.ocemod.2024.102387)]   |
 
 | Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A. (2024) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. _Computers and Mathematics with Applications_ [[doi](https://doi.org/10.1016/j.camwa.2023.12.025)]  |
 

@@ -23,6 +23,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+
 | Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2023) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico.   _Ocean Modelling_  [[doi](https://doi.org/10.1016/j.ocemod.2024.102387)]   |
 
 | Valseth, E., Behnoudfar, P., Dawson, C., Romkes, A. (2024) Automatic Variationally Stable Analysis for Finite Element Computations: Transient Convection-Diffusion Problems. _Computers and Mathematics with Applications_ [[doi](https://doi.org/10.1016/j.camwa.2023.12.025)]  |

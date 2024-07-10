@@ -6,7 +6,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Norwegian University of Life Sciences
 
 ### Available Masters Projects
 
@@ -18,7 +17,6 @@ author_profile: true
 - Modeling of aquaculture offshore installations (with Odd Ivar Lekang and industrial partner)
 
 
-
 #### Courses Thaught
 - The Finite Element Method [TBM250](https://www.nmbu.no/emne/tbm250). 
 - Programming and Data Processing [INF120](https://www.nmbu.no/emne/INF120)
@@ -26,6 +24,7 @@ author_profile: true
 #### Students 
 
 ##### Ph.D.
+- Benjamin Pachev (2021-) Co-supervisor with Clint Dawson 
 - Matthew Scarborough (2023-) Main supervisor 
 - Anna Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
 
@@ -39,23 +38,3 @@ author_profile: true
 - Sujan Devkota (NMBU 2024) main supervisor with Vajira Thambawita
 
 
-
-## South Dakota School of Mines and Technology
-
-### Graduate Teaching Assistant
-
-- Applied Finite Element Analysis [ME 528](https://ecatalog.sdsmt.edu/preview_course_nopop.php?catoid=13&coid=16230)
-- Machine Design [ME 322](https://ecatalog.sdsmt.edu/preview_course_nopop.php?catoid=8&coid=9956)
-- Solid Mechanics [ME 316](https://ecatalog.sdsmt.edu/preview_course_nopop.php?catoid=14&coid=18304)
-- Dynamics of Mechanisms [ME 221](https://ecatalog.sdsmt.edu/preview_course_nopop.php?catoid=8&coid=9950)
-- Intro to Solid Mechanics [ME 216](https://ecatalog.sdsmt.edu/preview_course_nopop.php?catoid=14&coid=18298)
-
-
-## Østfold University College
-
-### Teaching Assistant
-
-- Introductory Real Analysis
-- Classical Physics
-- Introductory Material Science, Ferrous Materials
-- Fluid Mechanics: Aerodynamics

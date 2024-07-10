@@ -25,7 +25,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2024) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. [[doi](https://doi.org/10.1007/s10596-024-10305-x)]  Computational Geosciences_ |
+| Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2024) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. _Computational Geosciences_ [[doi](https://doi.org/10.1007/s10596-024-10305-x)]   |
 
 | Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2024) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico.   _Ocean Modelling_  [[doi](https://doi.org/10.1016/j.ocemod.2024.102387)]   |
 

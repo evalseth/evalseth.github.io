@@ -26,7 +26,7 @@ author_profile: true
 ##### Ph.D.
 - Benjamin Pachev (2021-) Co-supervisor with Clint Dawson 
 - Matthew Scarborough (2023-) Main supervisor 
-- Anna Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
+- Anne Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
 
 
 ##### M.Sc.

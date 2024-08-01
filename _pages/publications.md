@@ -15,6 +15,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. arXiv:2405.02310v1 [cs.CE]  [[preprint](https://arxiv.org/pdf/2405.02310)] |
 
+|Horsch, M. T., Romanov, D., Valseth, E., Belouettar, S., Córdova López, L. E., Glutting, J., Janssen, M. A., Klein, P., Linhart, A., Seaton, M. A., Dypvik Sødahl, E., Vizcaino, N., Werth, S., Stephan, S., Todorov, I. T., Chiacchiera, S., & Al Machot, F. (2024, July 30). Battery manufacturing knowledge infrastructure requirements for multicriteria optimization based decision support in design of simulation. _International Workshop on Semantic Materials Science (SeMatS 2024)_, Amsterdam. [[preprint](https://doi.org/10.5281/zenodo.13132900)] |
+
 
 
 

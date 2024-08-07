@@ -24,7 +24,7 @@ author_profile: true
 #### Students 
 
 ##### Ph.D.
-- Benjamin Pachev (2021-) Co-supervisor with Clint Dawson 
+- Benjamin Pachev (2021-2024) Co-supervisor with Clint Dawson 
 - Matthew Scarborough (2023-) Main supervisor 
 - Anne Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
 

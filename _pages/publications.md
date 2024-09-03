@@ -25,7 +25,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Kazhyken, K., Valseth, E., Videman, J., Dawson, C. (2024) Application of a dispersive wave hydro-sediment-morphodynamic model in the Ria Formosa lagoon. _Computational Geosciences_ [[doi](https://doi.org/10.1007/s10596-024-10305-x)]   |
+| Wang, K., Chen, J., Valseth, E., Wells, G., Bettadpur, S., Jones, C.E., Dawson, C. (2024) Subtle Land Subsidence Elevates Future Storm Surge Risks Along the Gulf Coast of the United States. _Journal of Geophysical Research: Earth Surface_ [[doi](https://doi.org/10.1029/2024JF007858)]   |
+
 
 | Loveland, M., Valseth, E., Meixner, J., Dawson, C. (2024) Efficacy of reduced order source terms for a coupled wave-circulation model in the Gulf of Mexico.   _Ocean Modelling_  [[doi](https://doi.org/10.1016/j.ocemod.2024.102387)]   |
 

@@ -31,12 +31,15 @@ author_profile: true
 
 
 ##### M.Sc.
-- Jouval Max Erik Somer (University of Oslo 2024) with Kent-Andre Mardal
-- Tonje Martine Lorgen Kirkholt (NMBU 2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
-- Sougata Bhattacharya (NMBU 2024) main supervisor with Leon Moonen
+- Tonje Martine Lorgen Kirkholt (2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
+- Sougata Bhattacharya (2024) main supervisor with Leon Moonen
 - Raul Andreas Sanjines (NMBU 2024) main supervisor with Fadi Al Machot
 - Bikesh Shresta (NMBU 2024) with main supervisor Jonas Kusch
-- Navneet Sharma (NMBU 2024) main supervisor with Leon Moonen
-- Sujan Devkota (NMBU 2024) main supervisor with Vajira Thambawita
+- Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
+- Navneet Sharma (2024-) main supervisor with Leon Moonen
+- Sujan Devkota (2024-) main supervisor with Vajira Thambawita
+- Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker
+- Mahdi Hosseini (2024-) main supervisor with Jørgen Dokken 
+
 
 

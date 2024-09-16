@@ -13,7 +13,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding.  [[preprint](https://doi.org/10.21203/rs.3.rs-4432763/v1)] |
 
-| Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. _Accepted in Engineering with Computers_  [[preprint](https://arxiv.org/pdf/2405.02310)] |
+| Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2024) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen.   [[preprint](https://arxiv.org/abs/2409.08799)] |
 
 
 
@@ -24,6 +24,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+| Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. _Engineering with Computers_  [[doi](https://doi.org/10.1007/s00366-024-02055-2)] |
 
 | Wang, K., Chen, J., Valseth, E., Wells, G., Bettadpur, S., Jones, C.E., Dawson, C. (2024) Subtle Land Subsidence Elevates Future Storm Surge Risks Along the Gulf Coast of the United States. _Journal of Geophysical Research: Earth Surface_ [[doi](https://doi.org/10.1029/2024JF007858)]   |
 

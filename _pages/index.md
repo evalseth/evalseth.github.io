@@ -21,6 +21,14 @@ I attended the South Dakota School of Mines and Technology where I earned my Ph.
 My work is in the development of finite element methods for PDEs where classical finite element methods typically fail to produce acceptable approximations. Currently, my focus is within the context of flood modeling (e.g., hurricane storm surge and riverine flooding) as well as modeling for hydropower applications.
 </p>  
 
+---
+title: "News"
+layout: archive
+sitemap: true
+permalink: /
+author_profile: true
+---
+
 <!-- # News -->
 
 <p style="text-align: justify">

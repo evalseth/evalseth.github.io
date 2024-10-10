@@ -25,7 +25,7 @@ My work is in the development of finite element methods for PDEs where classical
 # News 
 
 <p style="text-align: justify">
-**October 9th 2024**: Interviewed by NRK (Norwegian public broadcaster) about Hurricane Milton:  <a href="https://www.nrk.no/urix/varsler-store-oversvommelser-pa-grunn-av-orkanen-_milton_-1.17076906">Orkanen «Milton» har truffet land i Florida</a>
+__October 9th 2024__: Interviewed by NRK (Norwegian public broadcaster) about Hurricane Milton:  <a href="https://www.nrk.no/urix/varsler-store-oversvommelser-pa-grunn-av-orkanen-_milton_-1.17076906">Orkanen «Milton» har truffet land i Florida</a>
 </p>  
 
 [Learn more about my research](/research/)

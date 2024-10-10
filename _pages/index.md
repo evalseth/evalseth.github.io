@@ -21,6 +21,12 @@ I attended the South Dakota School of Mines and Technology where I earned my Ph.
 My work is in the development of finite element methods for PDEs where classical finite element methods typically fail to produce acceptable approximations. Currently, my focus is within the context of flood modeling (e.g., hurricane storm surge and riverine flooding) as well as modeling for hydropower applications.
 </p>  
 
+<!-- # News -->
+
+<p style="text-align: justify">
+October 9th 2024: Interviewed by NRK (Norwegian public broadcaster) about Hurricane Milton:  <a href="https://www.nrk.no/urix/varsler-store-oversvommelser-pa-grunn-av-orkanen-_milton_-1.17076906">Orkanen «Milton» har truffet land i Florida</a>
+</p>  
+
 [Learn more about my research](/research/)
 
 

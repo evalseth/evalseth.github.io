@@ -28,6 +28,11 @@ My work is in the development of finite element methods for PDEs where classical
 <strong>October 9th 2024</strong>: Interviewed by NRK (Norwegian public broadcaster) about Hurricane Milton:  <a href="https://www.nrk.no/urix/varsler-store-oversvommelser-pa-grunn-av-orkanen-_milton_-1.17076906">Orkanen «Milton» har truffet land i Florida</a>
 </p>  
 
+
+<p style="text-align: justify">
+<strong>November 5th 2024</strong>: Interviewed by Titan (University of Oslo popular science newspaper) about the flooding during the extreme weather Hans:  <a href="https://www.titan.uio.no/naturvitenskap/2024/betre-modellar-kan-redusera-skadar-ekstremver.html">Betre modellar kan redusera skadane etter ekstremver</a>
+</p>  
+
 [Learn more about my research](/research/)
 
 

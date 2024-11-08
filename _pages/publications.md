@@ -11,7 +11,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-| Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding.  [[preprint](https://doi.org/10.21203/rs.3.rs-4432763/v1)] |
+| Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding. _Accepted in Nature Natural Hazards_  [[preprint](https://doi.org/10.21203/rs.3.rs-4432763/v1)] |
 
 | Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2024) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen.   [[preprint](https://arxiv.org/abs/2409.08799)] |
 

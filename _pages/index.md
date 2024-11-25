@@ -33,6 +33,10 @@ My work is in the development of finite element methods for PDEs where classical
 <strong>November 5th 2024</strong>: Interviewed by Titan (University of Oslo popular science newspaper) about the flooding during the extreme weather Hans:  <a href="https://www.titan.uio.no/naturvitenskap/2024/betre-modellar-kan-redusera-skadar-ekstremver.html">Betre modellar kan redusera skadane etter ekstremver</a>
 </p>  
 
+<p style="text-align: justify">
+<strong>November 25th 2024</strong>: Story on forskningsdata.no about the flooding during the extreme weather Hans:  <a href="https://www.forskning.no/informasjonsteknologi-klima-partner/hans-var-dyrare-enn-noko-ekstremvr-for-framtidige-katastrofar-kan-bli-meir-forutseielege/2427610">B«Hans» var dyrare enn noko ekstremvêr før. Framtidige katastrofar kan bli meir forutseielege</a>
+</p>  
+
 [Learn more about my research](/research/)
 
 

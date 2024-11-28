@@ -10,6 +10,8 @@ Additional links to preprints can be found on [arXiv.org](https://arxiv.org/sear
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?user=U-GhD5IAAAAJ&hl=en).
 
 ## Preprints
+| Łoś, M., Służalec, T., Paszyński, M., Valseth, E. (2024) Stabilization of isogeometric finite element method with optimal test functions computed from L2 norm residual minimization. _Accepted in Journal of
+Computational and Applied Mathematics_   [[preprint](https://arxiv.org/abs/2411.15565)] |
 
 | Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding. _Accepted in Nature Natural Hazards_  [[preprint](https://doi.org/10.21203/rs.3.rs-4432763/v1)] |
 

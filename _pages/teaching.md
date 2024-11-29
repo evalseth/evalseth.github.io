@@ -26,7 +26,8 @@ author_profile: true
 ##### Ph.D.
 - [Benjamin Pachev](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=321072), Automated GPU Acceleration of Stabilized Shallow Water Solvers with FEniCSx (2024) Co-supervisor with Clint Dawson
 - Chayanon (Namo) Wichitrnithed (2021-) Co-supervisor with Clint Dawson
-- Matthew Scarborough (2023-) Main supervisor 
+- Matthew Scarborough (2023-) Main supervisor
+- Amirhossein Aghabarari (2024-) Co-supervisor with Marin Thomas Horsch and Mathijs Adriaan Janssen 
 - Anne Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen 
 
 
@@ -39,7 +40,8 @@ author_profile: true
 - Navneet Sharma (2024-) main supervisor with Leon Moonen
 - Sujan Devkota (2024-) main supervisor with Vajira Thambawita
 - Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker
-- Mahdi Hosseini (2024-) main supervisor with Jørgen Dokken 
+- Mahdi Hosseini (2025-) main supervisor with Jørgen Dokken
+- Erling Tennøy Nordtvedt (2025-) main supervisor with Jonas Kusch 
 
 
 

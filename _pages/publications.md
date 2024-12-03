@@ -11,7 +11,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-| Łoś, M., Służalec, T., Paszyński, M., Valseth, E. (2024) Stabilization of isogeometric finite element method with optimal test functions computed from L2 norm residual minimization. _Accepted in Journal of Computational and Applied Mathematics_   [[preprint](https://arxiv.org/abs/2411.15565)] |
+
 
 | Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding. _Accepted in Nature Natural Hazards_  [[preprint](https://doi.org/10.21203/rs.3.rs-4432763/v1)] |
 
@@ -23,6 +23,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+
+| Łoś, M., Służalec, T., Paszyński, M., Valseth, E. (2024) Stabilization of isogeometric finite element method with optimal test functions computed from L2 norm residual minimization. _Journal of Computational and Applied Mathematics_   [[doi](https://doi.org/10.1016/j.cam.2024.116410)] |
 
 | Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. _Engineering with Computers_  [[doi](https://doi.org/10.1007/s00366-024-02055-2)] |
 

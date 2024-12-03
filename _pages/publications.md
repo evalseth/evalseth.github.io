@@ -67,6 +67,9 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Conference Proceedings 
 
+| Bolland, S., Haraldsrud, A., Jensen, S., Strömbäck, F., Styve, A., Tøssebro, E., Valseth, E., Strømme, T., (2024). The Nordic Prior Knowledge Test in Programming: Motivation, Development and Preliminary Results  _36TH NORWEGIAN ICT CONFERENCE FOR RESEARCH AND EDUCATION_ [[available here](https://www.ntnu.no/ojs/index.php/nikt/article/view/6216/5613)]|
+
+
 | Horsch, M. T., Romanov, D., Valseth, E., Belouettar, S., Córdova López, L. E., Glutting, J., Janssen, M. A., Klein, P., Linhart, A., Seaton, M. A., Dypvik Sødahl, E., Vizcaino, N., Werth, S., Stephan, S., Todorov, I. T., Chiacchiera, S., & Al Machot, F. (2024, July 30). Battery manufacturing knowledge infrastructure requirements for multicriteria optimization based decision support in design of simulation. _International Workshop on Semantic Materials Science (SeMatS 2024)_, Amsterdam. [[paper](https://doi.org/10.5281/zenodo.13132900)] |
 
 

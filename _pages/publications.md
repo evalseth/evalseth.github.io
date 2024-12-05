@@ -24,7 +24,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Łoś, M., Służalec, T., Paszyński, M., Valseth, E. (2024) Stabilization of isogeometric finite element method with optimal test functions computed from L2 norm residual minimization. _Journal of Computational and Applied Mathematics_   [[doi](https://doi.org/10.1016/j.cam.2024.116410)] |
+| Łoś, M., Służalec, T., Paszyński, M., Valseth, E. (2025) Stabilization of isogeometric finite element method with optimal test functions computed from L2 norm residual minimization. _Journal of Computational and Applied Mathematics_   [[doi](https://doi.org/10.1016/j.cam.2024.116410)] |
 
 | Maczuga, P., Łoś, M., Valseth, E.,  Serra, A.O., Siwik, L., Celaya, E.A., Paszyńska, A., Paszyński M., (2024) Simulating the aftermath of Northern European Enclosure Dam (NEED) break and flooding of European coast. _Engineering with Computers_  [[doi](https://doi.org/10.1007/s00366-024-02055-2)] |
 

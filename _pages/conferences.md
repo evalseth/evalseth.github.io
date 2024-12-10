@@ -10,6 +10,7 @@ author_profile: true
 - May 27-31 Visit Prof. Vadym Aizinger at University of Bayreuth, in Bayreuth, Germany
 - June 3-7 European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2024) in Lisbon, Portugal
 - July 21-26 World Congress on Computational Mechanics (WCCM 2024) in Vancouver, British Columbia
+- December 9-11 BatCAT Month 12 meeting, Kauserslautern, Germany
 
 ## 2023
 

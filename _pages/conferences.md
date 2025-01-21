@@ -6,6 +6,11 @@ permalink: /conferences/
 author_profile: true
 ---
 
+## 2025
+- February 5-7 2025 NHERI Computational Symposium, Los Angeles, California
+- June 3-5 Nordic Hydrological Conference, Reykjavik, Iceland
+- May Visit Prof. Vadym Aizinger at University of Bayreuth, in Bayreuth, Germany as Humboldt Fellow
+
 ## 2024
 - May 27-31 Visit Prof. Vadym Aizinger at University of Bayreuth, in Bayreuth, Germany
 - June 3-7 European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2024) in Lisbon, Portugal

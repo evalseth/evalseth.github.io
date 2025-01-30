@@ -32,11 +32,11 @@ author_profile: true
 
 
 ##### M.Sc.
-- Tonje Martine Lorgen Kirkholt (2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
-- Sougata Bhattacharya (2024) main supervisor with Leon Moonen
+- Tonje Martine Lorgen Kirkholt (NMBU 2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
+- Sougata Bhattacharya (NMBU 2024) main supervisor with Leon Moonen
 - Raul Andreas Sanjines (NMBU 2024) main supervisor with Fadi Al Machot
 - Bikesh Shresta (NMBU 2024) with main supervisor Jonas Kusch
-- Navneet Sharma (2025) main supervisor with Leon Moonen
+- Navneet Sharma (NMBU 2025) main supervisor with Leon Moonen
 - Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
 - Sujan Devkota (2024-) main supervisor with Vajira Thambawita
 - Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker

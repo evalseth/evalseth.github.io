@@ -36,8 +36,8 @@ author_profile: true
 - Sougata Bhattacharya (2024) main supervisor with Leon Moonen
 - Raul Andreas Sanjines (NMBU 2024) main supervisor with Fadi Al Machot
 - Bikesh Shresta (NMBU 2024) with main supervisor Jonas Kusch
+- Navneet Sharma (2025) main supervisor with Leon Moonen
 - Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
-- Navneet Sharma (2024-) main supervisor with Leon Moonen
 - Sujan Devkota (2024-) main supervisor with Vajira Thambawita
 - Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker
 - Mahdi Hosseini (2025-) main supervisor with Jørgen Dokken

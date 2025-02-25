@@ -25,6 +25,11 @@ My work is in the development of finite element methods for PDEs where classical
 # News 
 
 <p style="text-align: justify">
+<strong>January 2025 </strong>: Awarded Humboldt fellowship to visit Prof. Vadym Aizinger:  <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html">2024-25 Grantees</a>
+</p>  
+
+
+<p style="text-align: justify">
 <strong>October 9th 2024</strong>: Interviewed by NRK (Norwegian public broadcaster) about Hurricane Milton:  <a href="https://www.nrk.no/urix/varsler-store-oversvommelser-pa-grunn-av-orkanen-_milton_-1.17076906">Orkanen «Milton» har truffet land i Florida</a>
 </p>  
 

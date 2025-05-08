@@ -10,6 +10,7 @@ author_profile: true
 - February 5-7 2025 NHERI Computational Symposium, Los Angeles, California
 - June 3-5 Nordic Hydrological Conference, Reykjavik, Iceland
 - May Visit Prof. Vadym Aizinger at University of Bayreuth, in Bayreuth, Germany as Humboldt Fellow
+- July Visit Prof. Clint Dawson at The Oden Institute for Computational Eningeering and Sciences as a J. Tinsley Oden Fellow
 
 ## 2024
 - May 27-31 Visit Prof. Vadym Aizinger at University of Bayreuth, in Bayreuth, Germany

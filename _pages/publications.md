@@ -12,7 +12,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 ## Preprints
 
 
-| Reich, S., Buskey, E., Dawson, C., Valseth, E., (2025) Potential Effects of Loading Terminal Locations on Surface Trajectories of Oil Spill Transport. _submitted_   |
+| Reich, S., Buskey, E., Dawson, C., Valseth, E., (2025) Potential Effects of Loading Terminal Locations on Surface Trajectories of Oil Spill Transport. _submitted_    [[preprint](https://arxiv.org/abs/2505.24610)] |
+   
 
 
 

@@ -29,7 +29,7 @@ My work is in the development of finite element methods for PDEs where classical
 </p>  
 
 <p style="text-align: justify">
-<strong>January 2025 </strong>: Awarded Humboldt fellowship to visit Prof. Vadym Aizinger:  <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html">2024-25 Grantees</a>
+<strong>January 2025 </strong>: Awarded Humboldt fellowship to visit Prof. Vadym Aizinger at Bayreuth University:  <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html">2024-25 Grantees</a>
 </p>  
 
 

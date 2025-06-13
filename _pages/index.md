@@ -25,6 +25,10 @@ My work is in the development of finite element methods for PDEs where classical
 # News 
 
 <p style="text-align: justify">
+<strong>May 2025 </strong>: Awarded J. Tinsley Oden Faculty Fellowship to visit Prof. Clint Dawson at The Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin.
+</p>  
+
+<p style="text-align: justify">
 <strong>January 2025 </strong>: Awarded Humboldt fellowship to visit Prof. Vadym Aizinger:  <a href="https://www.humboldt-centre.uni-bayreuth.de/en/fellows-and-grantees/recently-selected-short-term-grantees/index.html">2024-25 Grantees</a>
 </p>  
 

@@ -26,7 +26,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2024) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen. _Applied Soft Computing_   [[doi](https://doi.org/10.1016/j.asoc.2025.113394)] |
+| Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2025) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen. _Applied Soft Computing_   [[doi](https://doi.org/10.1016/j.asoc.2025.113394)] |
 
 | Dawson, C., Loveland, M., Pachev, B., Proft, J., Valseth, E.  (2024) A Software Toolbox for Modeling Coastal Ocean Circulation, Storm Surges, Inland, and Compound Flooding. _Nature Natural Hazards_  [[doi](https://doi.org/10.1038/s44304-024-00036-5)] |
 

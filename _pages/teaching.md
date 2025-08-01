@@ -38,7 +38,7 @@ author_profile: true
 - Bikesh Shresta (NMBU 2024) with main supervisor Jonas Kusch
 - Navneet Sharma (NMBU 2025) main supervisor with Leon Moonen
 - Erling Tennøy Nordtvedt (2025) main supervisor with Jonas Kusch 
-- Sujan Devkota (2024-) main supervisor with Vajira Thambawita
+- Sujan Devkota (2025) main supervisor with Vajira Thambawita
 - Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
 - Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker
 - Mahdi Hosseini (2025-) main supervisor with Jørgen Dokken

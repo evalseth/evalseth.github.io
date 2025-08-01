@@ -18,8 +18,9 @@ author_profile: true
 
 
 #### Courses Thaught
-- The Finite Element Method [TBM250](https://www.nmbu.no/emne/tbm250). 
+- The Finite Element Method [TBM350](https://www.nmbu.no/emne/tbm350). 
 - Programming and Data Processing [INF120](https://www.nmbu.no/emne/INF120)
+- Partial Differential Equations  [MAth250](https://www.nmbu.no/emne/Math250)
 
 #### Students 
 

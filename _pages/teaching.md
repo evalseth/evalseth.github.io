@@ -34,16 +34,19 @@ author_profile: true
 
 
 ##### M.Sc.
-- Tonje Martine Lorgen Kirkholt (NMBU 2024) main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
-- Sougata Bhattacharya (NMBU 2024) main supervisor with Leon Moonen
-- Raul Andreas Sanjines (NMBU 2024) main supervisor with Fadi Al Machot
-- Bikesh Shresta (NMBU 2024) with main supervisor Jonas Kusch
-- Navneet Sharma (NMBU 2025) main supervisor with Leon Moonen
-- Erling Tennøy Nordtvedt (2025) main supervisor with Jonas Kusch 
-- Sujan Devkota (2025) main supervisor with Vajira Thambawita
+- Tonje Martine Lorgen Kirkholt (NMBU 2024) "Investigating the Viability of Machine Learning for the Prediction of Icing Occurrences at Airports", main supervisor with John Bjørnar Bremnes and Jean Rabault Førland
+- Sougata Bhattacharya (NMBU 2024) "Knowledge Graphs for Software Security Assessments and Cyber Threat Intelligence", main supervisor with Leon Moonen
+- Raul Andreas Sanjines (NMBU 2024) "A Parameter Estimation Approach in Simulated Neural Data Using Metamodelling Approaches", main supervisor with Fadi Al Machot
+- Bikesh Shresta (NMBU 2024) "Low-Rank Methods in Julia", with main supervisor Jonas Kusch
+- Navneet Sharma (NMBU 2025) "Large Language Models in Semantic Parsing for Log Analysis and Anomaly Detection", main supervisor with Leon Moonen
+- Erling Tennøy Nordtvedt (2025) "Machine Learning Approach for R-adaptive Mesh Refinement in Finite Element Analysis", main supervisor with Jonas Kusch 
+- Sujan Devkota (2025) "Enhancing Sperm Detection in Microscopic Videos Using Image Super-Resolution: An Experimental Study on Detection Accuracy and Generalization", main supervisor with Vajira Thambawita
 - Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
-- Nivetha Suntharamoorthy (2024-) main supervisor with Helge Spieker
+- Nivetha Suntharamoorthy (2025-) main supervisor with Helge Spieker
 - Mahdi Hosseini (2025-) main supervisor with Jørgen Dokken
+- Åsmund Tveit Aspholm (2025-) main supervisor
+- Tobias Sørlie (2025-)
+- Aksel Aimar Gundersen (2025-)
 
 
 

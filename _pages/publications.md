@@ -11,9 +11,14 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+
+
+| Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2025) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
+
 | Zhao, J., Cerrone, A., Valseth, E., Westerink, L.,  Dawson, C.,  (2025) Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting. _submitted_    [[preprint](https://arxiv.org/abs/2506.21743)] |
 
 | Reich, S., Buskey, E., Dawson, C., Valseth, E., (2025) Potential Effects of Loading Terminal Locations on Surface Trajectories of Oil Spill Transport. _submitted_    [[preprint](https://arxiv.org/abs/2505.24610)] |
+
    
 
 

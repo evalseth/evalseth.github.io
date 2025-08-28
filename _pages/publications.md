@@ -98,6 +98,4 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 
-## Other
 
-| Valseth, E. (2019). Automatic Variationally Stable Analysis for Finite Element Computations. Ph.D. Dissertation, South Dakota School of Mines and Technlology, Rapid City, South Dakota, U.S.A. |

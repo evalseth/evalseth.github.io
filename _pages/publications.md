@@ -11,7 +11,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-
+| Wichitrnithed, C., Valseth, E., Dawson, C.,  (2025) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _submitted_    [[preprint](https://arxiv.org/abs/2508.21208)] |
 
 | Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2025) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
 

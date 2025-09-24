@@ -20,7 +20,7 @@ author_profile: true
 #### Courses Thaught
 - The Finite Element Method [TBM350](https://www.nmbu.no/emne/tbm350). 
 - Programming and Data Processing [INF120](https://www.nmbu.no/emne/INF120)
-- Partial Differential Equations  [MAth250](https://www.nmbu.no/emne/Math250)
+- Partial Differential Equations  [Math250](https://www.nmbu.no/emne/Math250)
 
 #### Students 
 
@@ -43,7 +43,6 @@ author_profile: true
 - Sujan Devkota (2025) "Enhancing Sperm Detection in Microscopic Videos Using Image Super-Resolution: An Experimental Study on Detection Accuracy and Generalization", main supervisor with Vajira Thambawita
 - Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
 - Nivetha Suntharamoorthy (2025-) main supervisor with Helge Spieker
-- Mahdi Hosseini (2025-) main supervisor with Jørgen Dokken
 - Åsmund Tveit Aspholm (2025-) main supervisor
 - Tobias Sørlie (2025-)
 - Aksel Aimar Gundersen (2025-)

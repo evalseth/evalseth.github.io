@@ -41,11 +41,11 @@ author_profile: true
 - Navneet Sharma (NMBU 2025) "Large Language Models in Semantic Parsing for Log Analysis and Anomaly Detection", main supervisor with Leon Moonen
 - Erling Tennøy Nordtvedt (2025) "Machine Learning Approach for R-adaptive Mesh Refinement in Finite Element Analysis", main supervisor with Jonas Kusch 
 - Sujan Devkota (2025) "Enhancing Sperm Detection in Microscopic Videos Using Image Super-Resolution: An Experimental Study on Detection Accuracy and Generalization", main supervisor with Vajira Thambawita
-- Jouval Max Erik Somer (2024-) with Kent-Andre Mardal
+- Jouval Max Erik Somer (2024-) with main supervisor Kent-Andre Mardal
 - Nivetha Suntharamoorthy (2025-) main supervisor with Helge Spieker
 - Åsmund Tveit Aspholm (2025-) main supervisor
-- Tobias Sørlie (2025-)
-- Aksel Aimar Gundersen (2025-)
+- Tobias Sørlie (2025-) main supervisor
+- Aksel Aimar Gundersen (2025-) main supervisor
 
 
 

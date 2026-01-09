@@ -26,7 +26,7 @@ author_profile: true
 
 ##### Ph.D.
 - [Dr. Benjamin Pachev](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=321072), Automated GPU Acceleration of Stabilized Shallow Water Solvers with FEniCSx (2024) Co-supervisor with Clint Dawson
-- [Dr. Chayanon (Namo) Wichitrnithed](https://oden.utexas.edu/news-and-events/events/2109---Chayanon%20Wichitrnithed/), Coupled Continuous-Discontinuous Galerkin solver for hurricane storm surges (2025) Co-supervisor with Clint Dawson
+- [Dr. Chayanon (Namo) Wichitrnithed](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=344541), Coupled Continuous-Discontinuous Galerkin solver for hurricane storm surges (2025) Co-supervisor with Clint Dawson
 - Kenton Wu (2022-) Co-supervisor with Clint Dawson
 - Matthew Scarborough (2023-) Main supervisor
 - Amirhossein Aghabarari (2024-) Co-supervisor with Marin Thomas Horsch and Mathijs Adriaan Janssen 

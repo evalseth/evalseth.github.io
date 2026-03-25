@@ -32,6 +32,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+
 | Maczuga, P., Łoś, M., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński M, (2026) Shape grammar for modeling Earth’s bathymetry and performing tsunami simulations. _Journal of Computational Science_   [[doi](https://doi.org/10.1016/j.jocs.2026.102847)] |
 
 | Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2025) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen. _Applied Soft Computing_   [[doi](https://doi.org/10.1016/j.asoc.2025.113394)] |

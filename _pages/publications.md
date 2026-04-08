@@ -11,11 +11,13 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Pachev, B., Arora, P., Zhao, J., Valseth, E.,  (2026) Global Location-Invariant Peak Storm Surge Prediction. _submitted_    [[preprint](https://arxiv.org/abs/2603.25978)] |
+
+| Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2026) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
+
 | Liu, S-Z., Büttner, M., Scarborough, M., Valseth, E., Aizinger, V., Kainz, B., Rupp, A.,  (2026) Downscaling Neural Network for Coastal Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2408.16553)] |
 
-| Wichitrnithed, C., Valseth, E., Dawson, C.,  (2025) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _submitted_    [[preprint](https://arxiv.org/abs/2508.21208)] |
-
-| Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2025) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
+| Wichitrnithed, C., Valseth, E., Dawson, C.,  (2026) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _accepted_    [[preprint](https://arxiv.org/abs/2508.21208)] |
 
 | Zhao, J., Cerrone, A., Valseth, E., Westerink, L.,  Dawson, C.,  (2025) Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting. _submitted_    [[preprint](https://arxiv.org/abs/2506.21743)] |
 

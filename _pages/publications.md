@@ -11,6 +11,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Cai, S., Dutta, S., Loveland, M., Valseth, E., Rivera-Casillas, P., Trahan, C., Dawson, C.,  (2026) Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves. _submitted_    [[preprint](https://arxiv.org/abs/2604.06433)] | 
+
 | Pachev, B., Arora, P., Zhao, J., Valseth, E.,  (2026) Global Location-Invariant Peak Storm Surge Prediction. _submitted_    [[preprint](https://arxiv.org/abs/2603.25978)] |
 
 | Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2026) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |

@@ -11,7 +11,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
-| Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A.,; Sepulveda, P.,; Serra, A.O.,; Valseth, E., Paszyńska, A., Paszyński, M., (2026) Shape grammar for modeling Earth’s bathymetry and performing tsunami simulations. _Submitted_   [[preprint](https://arxiv.org/pdf/2604.19370)] |
+| Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A.,; Sepulveda, P.,; Serra, A.O.,; Valseth, E., Paszyńska, A., Paszyński, M., (2026) Wildfires Quasi-Implicit Alternative-Direction Simulations using Isogeometric Finite Element Method. _Submitted_   [[preprint](https://arxiv.org/pdf/2604.19370)] |
 
 | Cai, S., Dutta, S., Loveland, M., Valseth, E., Rivera-Casillas, P., Trahan, C., Dawson, C.,  (2026) Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves. _submitted_    [[preprint](https://arxiv.org/abs/2604.06433)] | 
 

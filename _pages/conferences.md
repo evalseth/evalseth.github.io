@@ -6,6 +6,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
+## 2026
+- July 20-24 World Congress on Computational Mechanics (WCCM 2026) in Munich, Germany
+
 ## 2025
 - February 5-7 2025 NHERI Computational Symposium, Los Angeles, California
 - June 3-5 - Nordic Hydrological Conference, Reykjavik, Iceland

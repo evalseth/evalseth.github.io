@@ -31,7 +31,8 @@ author_profile: true
 - Amirhossein Aghabarari (2024-) Co-supervisor with Marin Thomas Horsch and Mathijs Adriaan Janssen 
 - Kenton Wu (2025-) Co-supervisor with Clint Dawson
 - Anne Stavang (2025-) Co-supervisor with Nils-Otto Kitterød, Louise Chavarie, and Thomas Skaugen
-- Jinpai (Max) Zhao (2026-) Co-supervisor with Clint Dawson and Nishant Panda 
+- Jinpai (Max) Zhao (2026-) Co-supervisor with Clint Dawson and Nishant Panda
+- Mathias Ravn Munkvold (2026-) Co-supervisor with Jonas Kusch
 
 
 ##### M.Sc.
@@ -44,9 +45,8 @@ author_profile: true
 - Sujan Devkota (2025) "Enhancing Sperm Detection in Microscopic Videos Using Image Super-Resolution: An Experimental Study on Detection Accuracy and Generalization", main supervisor with Vajira Thambawita
 - Nivetha Suntharamoorthy (2025) main supervisor with Helge Spieker
 - Jouval Max Erik Somer (2026) "Towards Fully Data-Driven 10-Day Hourly Reservoir Inflow Forecasts" with main supervisor Kent-Andre Mardal and Fabio Zeiser.
-- Åsmund Tveit Aspholm (2025-) main supervisor
-- Tobias Sørlie (2025-) main supervisor
-- Aksel Aimar Gundersen (2025-) main supervisor
+- Tobias Sørlie (2026) main supervisor
+- Aksel Aimar Gundersen (2026) main supervisor
 
 
 

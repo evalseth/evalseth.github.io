@@ -41,6 +41,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
+| Cerrona, A.R., Wood, D., Pachev, B., Contreras-Vargas, M.T., Tejaswi, A., Wiraset, D., Blakely, C.P., Ling, G., Tolman, H.L., Luettich, R.A., Bunya, S., Cobell, Z., Valseth, E., Dawson, C., Cox, A.T., Daneshvar, F., Seroka, G.N, Moghimi, S., Myers, E.P., Westering, J.L., (2026) Deterministic and Probabilistic Analyses of Hurricane Ian (2022) with STOFS-2D-Global. _Weather and Forecasting_   [[doi](https://doi.org/10.1175/WAF-D-25-0012.1)] |
+
 | Maczuga, P., Łoś, M., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński M, (2026) Shape grammar for modeling Earth’s bathymetry and performing tsunami simulations. _Journal of Computational Science_   [[doi](https://doi.org/10.1016/j.jocs.2026.102847)] |
 
 | Sikora, M., Serra, A.O., Siwik, L., Leszczyńska, N., Ciesielski, T.M., Valseth, E., Leszczyński, J., Paszyńska, A., Paszyński, M, (2025) Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen. _Applied Soft Computing_   [[doi](https://doi.org/10.1016/j.asoc.2025.113394)] |

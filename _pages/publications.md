@@ -23,8 +23,6 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Liu, S-Z., Büttner, M., Scarborough, M., Valseth, E., Aizinger, V., Kainz, B., Rupp, A.,  (2026) Downscaling Neural Network for Coastal Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2408.16553)] |
 
-| Wichitrnithed, C., Valseth, E., Dawson, C.,  (2026) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _accepted_    [[preprint](https://arxiv.org/abs/2508.21208)] |
-
 | Zhao, J., Cerrone, A., Valseth, E., Westerink, L.,  Dawson, C.,  (2025) Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting. _submitted_    [[preprint](https://arxiv.org/abs/2506.21743)] |
 
 | Reich, S., Buskey, E., Dawson, C., Valseth, E., (2025) Potential Effects of Loading Terminal Locations on Surface Trajectories of Oil Spill Transport. _submitted_    [[preprint](https://arxiv.org/abs/2505.24610)] |
@@ -35,6 +33,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+| Wichitrnithed, C., Valseth, E., Dawson, C.,  (2026) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _Journal of Waterway, Port, Coastal, and Ocean Engineering_    [[doi](10.1061/JWPED5.WWENG-2426)] |
 
 | Cerrone, A.R., Wood, D., Pachev, B., Contreras-Vargas, M.T., Tejaswi, A., Wiraset, D., Blakely, C.P., Ling, G., Tolman, H.L., Luettich, R.A., Bunya, S., Cobell, Z., Valseth, E., Dawson, C., Cox, A.T., Daneshvar, F., Seroka, G.N, Moghimi, S., Myers, E.P., Westering, J.L., (2026) Deterministic and Probabilistic Analyses of Hurricane Ian (2022) with STOFS-2D-Global. _Weather and Forecasting_   [[doi](https://doi.org/10.1175/WAF-D-25-0012.1)] |
 

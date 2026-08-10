@@ -87,6 +87,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Conference Proceedings 
 
+|Suntharamoorthy, N., Betten, J.E.,  Gross, D., Valseth, E.,  Spieker, H. (2026) Do LLMs Explain or Remember? Evaluating Language Model Explanations of Reinforcement Learning Failures. _TRUST-AI: The Second European Workshop on Trustworthy AI. Organized as part of the International Joint Conference on Artificial Intelligence_ |
+
 |  Oliver-Serra, A., Siwik, L., Leszczyńska, N.,  Sikora, M.,  Ciesielski, T.M., Valseth, E.,  Leszczyński, J., Paszyńska A., and  Paszyński, M., (2025). Pollution Simulations and in-Field Measurements Performed in March at Longyearbyen, Spitzbergen  _5th International Conference, Singapore, Singapore, July 7–9, 2025, Proceedings_ [[available here](https://link.springer.com/chapter/10.1007/978-3-031-97635-3_42#citeas)]|
 
 | Bolland, S., Haraldsrud, A., Jensen, S., Strömbäck, F., Styve, A., Tøssebro, E., Valseth, E., Strømme, T., (2024). The Nordic Prior Knowledge Test in Programming: Motivation, Development and Preliminary Results  _36TH NORWEGIAN ICT CONFERENCE FOR RESEARCH AND EDUCATION_ [[available here](https://www.ntnu.no/ojs/index.php/nikt/article/view/6216/5613)]|

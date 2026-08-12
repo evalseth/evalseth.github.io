@@ -32,7 +32,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Scientific Articles
 
-| Zhao, J., Cerrone, A., Valseth, E., Westerink, L.,  Dawson, C.,  (2025) Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting. _Computational Geosciences_    [[doi](https://doi.org/10.1007/s10596-026-10477-8)] |
+| Zhao, J., Cerrone, A., Valseth, E., Westerink, L.,  Dawson, C.,  (2026) Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting. _Computational Geosciences_    [[doi](https://doi.org/10.1007/s10596-026-10477-8)] |
 
 | Wichitrnithed, C., Valseth, E., Dawson, C.,  (2026) GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC.  _Journal of Waterway, Port, Coastal, and Ocean Engineering_    [[doi](https://doi.org/10.1061/JWPED5.WWENG-2426)] |
 

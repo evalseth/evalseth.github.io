@@ -11,6 +11,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Scarborough, M., Christensen, K.H., Cerrone, A., Kristensen, N.M., Valseth, E.,  (2026) Modeling the Hydrodynamics in the Oslofjord using ADCIRC. _submitted_    [[preprint](https://arxiv.org/abs/2608.17140)] |
+
 | Zhao, J., Panda, N., Lin, Y.T.,  Valseth, E., Oyen, D., Dawson, C.,  (2026) HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs. _submitted_    [[preprint](https://arxiv.org/abs/2605.00820)] |
 
 | Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A., Sepulveda, P., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński, M., (2026) Wildfires Quasi-Implicit Alternative-Direction Simulations using Isogeometric Finite Element Method. _Submitted_   [[preprint](https://arxiv.org/pdf/2604.19370)] |
@@ -21,12 +23,11 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2026) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
 
-| Liu, S-Z., Büttner, M., Scarborough, M., Valseth, E., Aizinger, V., Kainz, B., Rupp, A.,  (2026) Downscaling Neural Network for Coastal Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2408.16553)] |
+| Liu, S-Z., Büttner, M., Scarborough, M., Valseth, E., Aizinger, V., Kainz, B., Rupp, A.,  (2026) Downscaling Neural Network for Coastal Simulations.  _accepted_    [[preprint](https://arxiv.org/abs/2408.16553)] |
 
 | Reich, S., Buskey, E., Dawson, C., Valseth, E., (2025) Potential Effects of Loading Terminal Locations on Surface Trajectories of Oil Spill Transport. _submitted_    [[preprint](https://arxiv.org/abs/2505.24610)] |
 
    
-
 
 
 

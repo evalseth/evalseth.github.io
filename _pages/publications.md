@@ -11,6 +11,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 ## Preprints
 
+| Scarborough, M., Wichitrnithed, C., Bunya, S., Kubatko, E., Nepal, S., Dawson, C., Valseth, E.,  (2026) Investigating Forecast Proficiency of Hurricane-Induced Compound Flooding With a Discontinuous Galerkin Shallow Water Equation Solver. _submitted_    [[preprint](https://arxiv.org/abs/2608.27778)] |
+
 | Scarborough, M., Christensen, K.H., Cerrone, A., Kristensen, N.M., Valseth, E.,  (2026) Modeling the Hydrodynamics in the Oslofjord using ADCIRC. _submitted_    [[preprint](https://arxiv.org/abs/2608.17140)] |
 
 | Zhao, J., Panda, N., Lin, Y.T.,  Valseth, E., Oyen, D., Dawson, C.,  (2026) HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs. _submitted_    [[preprint](https://arxiv.org/abs/2605.00820)] |

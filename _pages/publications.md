@@ -19,8 +19,6 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A., Sepulveda, P., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński, M., (2026) Wildfires Quasi-Implicit Alternative-Direction Simulations using Isogeometric Finite Element Method. _Submitted_   [[preprint](https://arxiv.org/pdf/2604.19370)] |
 
-| Cai, S., Dutta, S., Loveland, M., Valseth, E., Rivera-Casillas, P., Trahan, C., Dawson, C.,  (2026) Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves. _accepted in Ocean Engineering_    [[preprint](https://arxiv.org/abs/2604.06433)] | 
-
 | Pachev, B., Arora, P., Zhao, J., Valseth, E.,  (2026) Global Location-Invariant Peak Storm Surge Prediction. _submitted_    [[preprint](https://arxiv.org/abs/2603.25978)] |
 
 | Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2026) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
@@ -32,6 +30,8 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+
+| Cai, S., Dutta, S., Loveland, M., Valseth, E., Rivera-Casillas, P., Trahan, C., Dawson, C.,  (2026) Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves. _Ocean Engineering_    [[doi](10.1016/j.oceaneng.2026.127866)] | 
 
 | Liu, S-Z., Büttner, M., Scarborough, M., Valseth, E., Aizinger, V., Kainz, B., Rupp, A.,  (2026) Downscaling Neural Network for Coastal Simulations.  _Environmental Modelling & Software_    [[doi](https://doi.org/10.1016/j.envsoft.2026.107147)] |
 

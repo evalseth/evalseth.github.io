@@ -16,8 +16,6 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Scarborough, M., Wichitrnithed, C., Bunya, S., Kubatko, E., Nepal, S., Dawson, C., Valseth, E.,  (2026) Investigating Forecast Proficiency of Hurricane-Induced Compound Flooding With a Discontinuous Galerkin Shallow Water Equation Solver. _submitted_    [[preprint](https://arxiv.org/abs/2608.27778)] |
 
-| Scarborough, M., Christensen, K.H., Cerrone, A., Kristensen, N.M., Valseth, E.,  (2026) Modeling the Hydrodynamics in the Oslofjord using ADCIRC. _Accepted in Applied Mathematical Modeling_    [[preprint](https://arxiv.org/abs/2608.17140)] |
-
 | Zhao, J., Panda, N., Lin, Y.T.,  Valseth, E., Oyen, D., Dawson, C.,  (2026) HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs. _submitted_    [[preprint](https://arxiv.org/abs/2605.00820)] |
 
 | Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A., Sepulveda, P., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński, M., (2026) Wildfires Quasi-Implicit Alternative-Direction Simulations using Isogeometric Finite Element Method. _Submitted_   [[preprint](https://arxiv.org/pdf/2604.19370)] |
@@ -33,6 +31,9 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 
 ## Scientific Articles
+
+
+| Scarborough, M., Christensen, K.H., Cerrone, A., Kristensen, N.M., Valseth, E.,  (2026) Modeling the Hydrodynamics in the Oslofjord using an Advanced Circulation Model. _Accepted in Applied Mathematical Modeling_    [[doi](https://doi.org/10.1016/j.apm.2026.117392)] |
 
 | Cai, S., Dutta, S., Loveland, M., Valseth, E., Rivera-Casillas, P., Trahan, C., Dawson, C.,  (2026) Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves. _Ocean Engineering_    [[doi](10.1016/j.oceaneng.2026.127866)] | 
 

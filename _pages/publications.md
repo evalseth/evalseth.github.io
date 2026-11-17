@@ -20,7 +20,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 | Wasieleski, J., Służalec, T., Woźniak, M., Łoś, M., Medina, A., Sepulveda, P., Serra, A.O., Valseth, E., Paszyńska, A., Paszyński, M., (2026) Wildfires Quasi-Implicit Alternative-Direction Simulations using Isogeometric Finite Element Method. _Accepted in Applied Mathematical Modeling_    [[preprint](https://arxiv.org/pdf/2604.19370)] |
 
-| Pachev, B., Arora, P., Zhao, J., Valseth, E.,  (2026) Global Location-Invariant Peak Storm Surge Prediction. _submitted_    [[preprint](https://arxiv.org/abs/2603.25978)] |
+| Pachev, B., Arora, P., Zhao, J., Valseth, E.,  (2026) Global Location-Invariant Peak Storm Surge Prediction. _accepted in Nature Natural Hazards_    [[preprint](https://arxiv.org/abs/2603.25978)] |
 
 | Wichitrnithed, C., Valseth, E., Bunya, S., Kubatko, E.J., Dawson, C.,  (2026) Coupled Continuous-Discontinuous Galerkin Finite Element Solver for Compound Flood Simulations.  _submitted_    [[preprint](https://arxiv.org/abs/2508.15948)] |
 

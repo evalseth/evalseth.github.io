@@ -45,8 +45,8 @@ author_profile: true
 - Sujan Devkota (2025) "Enhancing Sperm Detection in Microscopic Videos Using Image Super-Resolution: An Experimental Study on Detection Accuracy and Generalization", main supervisor with Vajira Thambawita
 - Nivetha Suntharamoorthy (2025) main supervisor with Helge Spieker
 - Jouval Max Erik Somer (2026) "Towards Fully Data-Driven 10-Day Hourly Reservoir Inflow Forecasts" with main supervisor Kent-Andre Mardal and Fabio Zeiser.
-- Tobias Sørlie (2026) main supervisor
-- Aksel Aimar Gundersen (2026) main supervisor
+- Tobias Sørlie (2026) "Utvikling og analyse av energibesparende vannpåføring i industribaking" main supervisor
+- Aksel Aimar Gundersen (2026) "Finite Element Analysis of Composite Laminated Sandwich Structures in Formula Student Chassis Design" main supervisor
 
 
 
